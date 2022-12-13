@@ -359,6 +359,8 @@ console load FLCC/1-Lobby/VITELLARY_Extro
   13,R,D
    1,R,J
    7,R
+#0:58.106(3418)
+
   40
 
 #lvl_5_hub (4)
@@ -482,7 +484,6 @@ console load FLCC/1-Lobby/VITELLARY_Extro
    2,R,J
    1,R,K,G
    4,R,J,G
- 134,R,J
-   1,O
-  32
+ 135,R,J
+
 ChapterTime: 1:21.396(4788)
