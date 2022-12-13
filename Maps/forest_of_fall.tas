@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 825
+RecordCount: 842
 
 console load FLCC/1-Lobby/TOBYAAA_puzzle
    1
@@ -498,16 +498,13 @@ console load FLCC/1-Lobby/TOBYAAA_puzzle
    1,R
    1,J,G
    9,L
-  12,L,D,J
-   1,L,K,G
-   2,R,K
-   1,L,K
-   1,L,J,G
-  19,L,K,G
-   2,L
-  28,L,X
-   1,L,J,G
-   7,L
+  11,L,D,J
+   1
+   4,L,K,G
+   2,J
+   5,L,Z
+  19,L,J,G
+  10,L
    8,L,X
   40
 
@@ -518,4 +515,4 @@ console load FLCC/1-Lobby/TOBYAAA_puzzle
   12,L,X
  135
 
-ChapterTime: 1:06.538(3914)
+ChapterTime: 1:06.164(3892)
