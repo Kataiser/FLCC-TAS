@@ -39,24 +39,31 @@ console load FLCC/1-Lobby/VITELLARY_Extro
    1,X
   30,R
   97,R,X
-   5,R,G
-   6,R,J
-   4,R,K,G
-  14,R
+   4,R,G
+   1
+   5,R,J
+   1,R
+   2,R,K,G
+   1,R,J,G
+  12,R
    1,R,J
   14,R
    1,R,J
   14,R
-   1,R,J
   40
 
 #lvl_3
-  13,R
+   1,R,J
+   6,R
    1
-   3,R,J
+   6,R
+   1
+   2,R,J
    1,R,K,G
-  24,R,J,G
-  13,R
+   1,R,J,G
+  23,R,J
+   1,R,K,G
+  14,R
    1,X
   30
   43,R,X
@@ -64,14 +71,14 @@ console load FLCC/1-Lobby/VITELLARY_Extro
   17
   42,R,X
   25,L
-  63,L,X
+  55,L,X
+   6,R,X
    1,L,J,G
-  14,L,J
+  12,L,J
   11,K,G
   11,J,G
   18,R,K
   11,J,G
-   3,K,G
   40
 
 #lvl_4
@@ -320,32 +327,32 @@ console load FLCC/1-Lobby/VITELLARY_Extro
    1,L,K,G
    6,L,J,G
    1,L,K,G
-   1,L,J,G
-  11,L
+   4,L,J,G
+  15,L,D
    1,L,J
-  18,L
+  17,L,D
    1,L,J
   14,L
    1,L,J
-  18,L
+  14,L
    1,X
   66,R,X
   33,L,X
    1,R,G
-  11,R
-  10,L,D
+   3,R
+  12,L,D
    1,L,J
    7,L
    1,L,J
-  10,L
+   9,L
    1,L,J
   17,L
    1,L,J
-  21,L
-  12,L,D
+  22,L
+  11,L,D
    7,L
    1,X
- 144,L,X
+ 145,L,X
    1,L,G
   32,L
   96,R
@@ -478,4 +485,4 @@ console load FLCC/1-Lobby/VITELLARY_Extro
  134,R,J
    1,O
   32
-ChapterTime: 1:21.617(4801)
+ChapterTime: 1:21.396(4788)
