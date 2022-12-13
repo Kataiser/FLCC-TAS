@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 785
+RecordCount: 851
 
 console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    1
@@ -156,19 +156,20 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
   15,R,D,J
    5,R,J
   24,R,K
-  12,J,G
-   7,K,G
-   4,R,J,G
-   4,L,J
-   7,R,J
+  10,R,J,G
+   2
+   3,K,G
+   1
+   1,L
+   1,J
+  16,R,K,G
+   1,R,J,G
    1,R,K,G
+   9,R
+   1,R,J
+  14,R
+   1,R,J
   10,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   3,R,J
-   2,R
   40
 
 #lvl_Generic5
@@ -184,16 +185,7 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    2,J
    3
   13,R
-#PLEASE get this cb
-#   1,R,J,G
-#   4,J
-#   5
-#   3,J
-#   1
-#   1,J
-#   9
-# 500,R
-#
+#cb not on the sp grid
    1,R,J,G
   13
   30,R
@@ -231,7 +223,6 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
   14,L
   14,R,D
    5,D
-#looks slow
   31,R
    9,L
    9
@@ -274,7 +265,6 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
 #   9
 #   6,J
 #  50,R,J
-#
    1,J
    4
    1,R
@@ -288,14 +278,13 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    5,R
    3,R,J
   16,R,K,G
-   5,K
+   3
    8,L
-   1
+   1,R
    7,R,J
    5,R
    1,R,J,G
    1,R,K,G
-
   10,R
   40
 
@@ -317,20 +306,19 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    1,R,J,G
    9,R
    1,R,J
-  22,R,D
-   1,D
+  23,R,D
    1,R,D,J
   14,R
   10,R,J
-   4,R
-#dcb
+   1
+   2,R
+   1,R,K,G
    1,R,J,G
-  13,R
+  14,R
    1,R,J
   23,R,D
    1,R,J
-  14,R
-   1,R,J
+   8,R
   40
 
 #lvl_Generic9
@@ -424,4 +412,4 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
   17,R
  135
 
-ChapterTime: 0:48.382(2846)
+ChapterTime: 0:48.093(2829)
