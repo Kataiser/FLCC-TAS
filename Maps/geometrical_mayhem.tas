@@ -1,5 +1,5 @@
 #By Phrog
-RecordCount: 1000
+RecordCount: 1023
 
 console load FLCC/1-Lobby/MACARONIBOI_UltraEasy
    1
@@ -110,9 +110,9 @@ console load FLCC/1-Lobby/MACARONIBOI_UltraEasy
   16,L,D
   35,D
   11,L,D
-  34,D
-   5,R,D
-  10,R,D,G
+  39,D
+   1
+   1,R,G
   16,R,J,G
   15,R,X
   17,R,J
@@ -190,4 +190,4 @@ console load FLCC/1-Lobby/MACARONIBOI_UltraEasy
   29,R,U,X
  118
 
-ChapterTime: 0:45.186(2658)
+ChapterTime: 0:45.050(2650)
