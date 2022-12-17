@@ -1,28 +1,29 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 945
-
 console load FLCC/1-Lobby/MACARONIBOI_SIAN
    1
 
 #Start
   84
+
 #lvl_SIAN1
    4,R,Z
    4,R,J
    1,R
    4,R,J
    7,R
+   1,R,J
   14,R,Z
-  25,R,J
-  15,R,X
-  50
-   7,L
-  10,R,D,X
-   6,R,J
+  12,R,J
    2,R
-   8,R,J
+  11,R,J
+  15,R,X
+  38
+  11,L
+  13,R,D,X
+   2,R,J
+  11,R
   18,R,X
   35,U,C
   13,R,U,Z
@@ -30,8 +31,10 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
 
 #lvl_SIAN2
    2,R
-  12,J
-   2,K
+Repeat, 7
+   1,J
+   1,K
+EndRepeat
   10,R,Z
    1,R,J
    8,R
@@ -53,15 +56,14 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
   11,R,Z
    4,R,J
    7,R,K
-   1,R
-  22,R,J
+   5,R
+  18,R,J
   15,R,X
    6,R
-   1,R,J
-  10,R,U,X
-   6,R,J,G
+  11,R,U,X
+   5,R,J,G
    7,R,K,G
-   2,R
+   1,R
    5,R,J,G
    7,R
    4,R,Z
@@ -69,13 +71,14 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    2,R
   40
 
-
 #lvl_SIAN3
    5,R
    9,R,J
    6,R
-  24,R,J
-  13,D
+  23,R,J
+   1,J
+  12,D
+   1,R,D
   18,R,Z
   15,R,X
   15,U,C
@@ -91,29 +94,18 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    6,R
    2,R,J,G
    5,R
-  18,R,J
-   7,D
-   6,R,D
-   1,R,J
-   7,R
-   1,R,J
-  16,R
-   1,R,J
-  11,R
-  15,R,U,Z
-  15,U,X
-  15,L
-  52,D
-  12,L,D
-  10,L,Z
-  10,L,J
-   7,L
-  10,L,J
-  15,D,X
+   9,R,J
+  25,R,D
+   8,D
+   1,R,D
    1,D
-   8,R,D
-  10,R,D,X
-  32,R,J
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+  14,R,D,X
+  19,R,J
+  11,R
   18,R,U,X
   13,R,Z
    4,R,J
@@ -131,7 +123,6 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    1,R,J
    2,R
   40
-
 
 #lvl_SIAN4
    5,R
@@ -169,18 +160,15 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    1,L,K,G
    1,L,J,G
    7,L
-   3,L,J
-   5,J
-  14,L,U,Z
-   1,R,J,G
-  11,L,J
-   8,L,K,G
+  10,L,X
+   7,L,J
+  15,U,X
+   8,R,J
   40
 
 #lvl_SIAN5
-   4,L,K,G
-  12,L,J,G
-   6,L,K,G
+  12,L,J
+   9,L,K,G
    7,R
    6,R,J
   23,U,X
@@ -232,18 +220,17 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
   16,R,Z
    4,R,J
    1,L,K,G
-   6,R,J
-  15,R,U,X
-  12,R
+   3,R,K
+   3,R
+  25,R,U,X
    4,R,Z
    1,R,J
   46,L,D
   40
 
-
 #lvl_SIAN6
   17,L,D
-  10,L,D,X
+  10,L,Z
    7,L,J
    1,L
   22,L,J
@@ -265,8 +252,8 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    3,D
    3,R,D
    3,D
-   3,L,D
-  13,D
+   4,L,D
+  12,D
    8,L,D
   49,D
   16,D,X
@@ -292,41 +279,43 @@ console load FLCC/1-Lobby/MACARONIBOI_SIAN
    1,L,J
   16,L
   19,D,X
-   9,R,D
-  15,R,Z
-   3,R
-  13,L,D,X
-   4,R,J
-  15,R,Z
-   4
-
-  13,L,J,G
-   4,K,G
-   1,R,K
-   1,J
-   3,R,J
-  28,R,K
-  10,R,J,G
+   6,L,D
+   3,R,D
+   
+   4,Z
+   1,R,J
    7,R
-   7,R,Z
+   4,R,J
+   9,R,D
+  20,R,D,X
+   2,R
+   4,R,J
+   6,L,K,G
+   5,R,K
+   1
+   1,R
+  19,R,Z
+   1,R,J,G
+  10,R
+   6,R,Z
    1,R,J
-   6,R
+   7,R
    1,R,J
-  11,R,D,X
-  40
+   8,R,D,X
+  43
 
 #lvl_SIAN7
-   3,R,D,X
    6,R,J
    3,R,K,G
-   7,R
-   1,R,J
-  19,R,U,X
+   2,L,K
+   1,R,J,G
+  22,R,U,X
    4,R,J
-  14,R,K
+  15,R,K
   15,R,X
+  63
+  11,R,Z
+  13,L,J
+  51,L
 
-
- 137
-
-ChapterTime: 0:53.006(3118)
+ChapterTime: 0:49.215(2895)
