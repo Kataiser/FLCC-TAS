@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1266
+RecordCount: 1387
 
 console load FLCC/1-Lobby/TOBYAAA_forest
    1
@@ -74,17 +74,18 @@ console load FLCC/1-Lobby/TOBYAAA_forest
    2,R,J
    3,R
    2,R,J
-  47,R
-  15,R,X
-  17,L,D
-  39,R
-  12,D,X
+  24,R
+  15,R,U,X
+  20,D
+   8,L,D
+  38,R
+  11,D,X
   31,R
   15,R,X
-   4
-  36,R
+  11
+  31,R
   15,R,X
-  15,R
+  14,R
   14,R,Z
    1,L,J
   14,L,Z
@@ -226,54 +227,40 @@ console load FLCC/1-Lobby/TOBYAAA_forest
 
 #lvl_06h
    4,R,J
-   4,R,K,G
-  10,R,D,X
-   9,R,J
-  15,D,C
-   2,R
+   3,R,K,G
+   4,R,D,X
    2,R,J
-  28,D,X
-   3,L,D
-  10,R,X
-   5,R,J
+  18,R
+  35,D,X
+   2,L,D
+  10,R,C
+   8,R,J
   15,U,X
-   5,R
-   5,R,J
+   4,R
   15,L,J
-  11,R,K
+  12,R,K
    7,R
    4,R,Z
    7,R,J
    1,R,K,G
-   9,R
-  40
-
-
-#lvl_06_antechamber
-  70
-   4,L,Z
-   1,L,J
-   6,L
-  40
-   1,L
-   1,L,J
-   4,L
-  10,L,D,X
-   4,R,J
-   6,R,K,G
-   4,R
-   5,R,U,X
-  40
-
-#lvl_06_antechamber
-   9,R,U,X
-   1,L,J,G
-   9,R,J
-   7,R
-  14,R,U,X
-   1,R,J,G
    8,R
-   6,L,Z
+  40
+
+
+#lvl_06_antechamber
+ 102
+  10,L,J
+  10,R,X
+   6,R,J
+   8,J
+   7,R,J
+#4729 -> 4733 
+  15,R,U,X
+   9,R
+   8,R,J,G
+
+   7,R
+   5,L,Z
    1,R,J
    7,R
   10,R,J
@@ -322,4 +309,4 @@ console load FLCC/1-Lobby/TOBYAAA_forest
   20,R
 #end
  124
-ChapterTime: 0:54.927(3231)
+ChapterTime: 0:53.669(3157)
