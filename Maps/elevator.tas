@@ -1,20 +1,28 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 916
+RecordCount: 1126
 
 console load FLCC/1-Lobby/SPIRITDRAGON_Elevator
    1
 
 #Start
   36
+
 #lvl_01
-  14,R,Z
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+   6,R,D,X
    1,L,J
    7,L
-   1,J
- 150
-   4,R,Z
+   1,L,J
+  15,L,D,X
+   1
+   1,L
+ 130
+   4,Z
    1,R,J
    7,R
    4,R,J
@@ -64,17 +72,20 @@ Endrepeat
   10,L,K
    3,L,J,G
   39,R,K
-  11,J,G
-   1,L,J
-   1,K
-  20,R,K
-  11,D
-  12,L,D
+  10,J,G
+   1
+   1,L
+   2,R,K,G
+   5,R
+   1,R,K
+   9,R,D
+  13,D
+   7,L,D
   15,L,Z
-  24
+  24,R,D
 
 #lvl_02
-   4,R,Z
+   4,Z
    1,R,J
    7,R
  110
@@ -135,19 +146,28 @@ Endrepeat
   25,R,K
   45,R,D,G
   65,R,G
-  33,U,G
+   2,U,G
+   2,G
+   1,U,G
+   4,X
+  12,D
+  14,L,Z
+   4,R,J
 
 #lvl_03
-   4,R,Z
-   1,R,J
-   7,R
- 125
+   1,R,K
+  15,R,D,X
+#sad
+  11
+   7,L
+ 102
   20,R,J
   15,U,X
   13,R,J
   29,R
   10,L,D,X
-  36,R,J
+  34,R,J
+   2,J
    4,K,G
    1,L,K
    1,J
@@ -170,14 +190,21 @@ Endrepeat
   44,R,G
   30,R,D,G
   74,G
-  30,U,G
- 144,G
+  29,U,G
+  61,G
+  12,R,J,G
+  12,R,K,G
+  42,R,D
+  14,L,D,X
+   1,R,J
+   9,R,D,X
 
 #lvl_04
-   4,R,Z
-   1,R,J
-   7,R
- 114
+   5,R,D,X
+  16,R
+   5
+   1,R
+  94
   10,J
   15,U,X
   12,R,J
@@ -228,13 +255,17 @@ Endrepeat
   25,R,K
   11,R,G
   35,U,G
-  53,G
+  39,G
+  17,L,Z
 
 #lvl_05
-   4,R,Z
    1,R,J
-   7,R
- 150
+  15,R,D,X
+  10
+   3,L
+   3
+   1,R
+ 126
   12,J
   15,U,X
   40,R,D
@@ -337,13 +368,13 @@ Endrepeat
   10,D,G
   40,G
   25
-   7,R
-   5,R,J
-  15,L,X
-  15,L,U,G
-  41,L,G
+   7
+   5,D,J
+   7
+  57,G
+   4,Z
+
 #lvl_07
-   4,R,Z
    1,R,J
    7,R
   60
@@ -425,10 +456,10 @@ Endrepeat
    7,R
   16,R,J
    7,R,K
- 153,R,G
+ 149,R,G
+   4,Z
 
 #lvl_08
-   4,R,Z
    1,R,J
    7,R
   80
@@ -472,24 +503,32 @@ Endrepeat
   25,L
   19
   32,D
-
-   4,L,J
-  27,L,D
-  19,R,D,X
-   3,D
-   1,R,D,J
-   5
-  30,D,X
-   
-#lvl_end
-   4,R,Z
+   3,L,J
+   5,L
+   1,L,J
+  21,L,D
+  15,R,D,X
+   4,R,D
+   1,R
+   1,R,D
+   2,R,D,J
+   2,R
+   2
+  12,L,D,X
    1,R,J
-   7,R
-  20
-  25,L
-  93
-  16,J
+   2,R
+  14,L,D,X
+   4,R,J
+#1f too slow for gultra before transition
+
+#lvl_end
+   1,R,K
+  15,R,D,X
+  10
+  35,L
+  78
+  19,J
   15,U,X
-#end
+   3
  135
-ChapterTime: 2:10.492(7676)
+ChapterTime: 2:10.084(7652)
