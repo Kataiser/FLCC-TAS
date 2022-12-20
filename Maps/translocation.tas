@@ -1,4 +1,4 @@
-RecordCount: 582
+RecordCount: 620
 
 console load FLCC/1-Lobby/LILYBEEVEE_translocation
    1
@@ -147,20 +147,14 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
    1,R,J
   15,R,D,X
   11,U,C
-  16,U
-   5,F,346.218
-   1,F,350.221
-   7,F,13.863
-   4,F,1
-   1,F,5.576
-   1,F,12
-  29,F,139.447
-   3,F,143.559
-   5,F,155
+  35,U
+   9,R,U
+   7,R
+  15,R,D,X
+   2,R,D
    4,D,X
   11,R,X
-  26,L,U
-   1,L,U
+  27,L,U
   12,R
    4,D,X
   11,R,X
@@ -193,21 +187,19 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
    4,D,X
   11,R,X
   15,R,C
-  33,R,U
-   2,F,47.161
-   1,F,45.561
-  27,F,21.358
-   1,F,19.064
-  22,F,359.969
+  36,R,U
+  27,U
+   1,U
+  22,U
   31,D,X
   15,L,D,C
    4,D,X
   11,L,X
   32,U
-  24,F,39.97
-   1,F,35.674
-   5,F,27.315
-   3,F,27.283
+  24,R,U
+   1,R,U
+   1,U
+   8,U
    4,D,X
    8,L,X
    9,L,J
@@ -245,11 +237,10 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
    3,R,J
    4,D,X
   35,R,X
-  78,F,89.874
-  17,F,86.398
-  16,F,86.387
+  98,R
+  15,R,C
   15,R,U,X
 
 #end
  134
-ChapterTime: 0:40.664(2392)
+ChapterTime: 0:40.562(2386)
