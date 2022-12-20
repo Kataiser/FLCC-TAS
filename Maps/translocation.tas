@@ -1,4 +1,7 @@
-RecordCount: 630
+# FLCCcollab
+# https://gamebanana.com/mods/414315
+
+RecordCount: 1660
 
 console load FLCC/1-Lobby/LILYBEEVEE_translocation
    1
@@ -7,78 +10,81 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
  190
    
 #lvl_1
-   4,D,C
-  10,R,C
+   5,L
+   1,L,J
+   4,D,X
+  10,L,X
    1,R,J
-  13,R,D,X
-   3,R,J
-   2,R
+   5,R,D,X
+   8,R,J,G
+   3,R
+  16,R,D,X
+   1,R,J
+   3,R
    9,R,D,X
-  18,R,J,G
-   5,R
+   3,R,J,G
+   5,R,K,G
+   1,R
+   2,R,J,G
+   6,R
    1,R,J
-   9,R,D,X
-   1,R,J
-   7,R
-   1,R,J
-   9,R
+   4,R
+   5,R,D,J
+   6,R
+   2,R,J
   40
 
 #lvl_2
-  15,R,U,C
+   1,R
    4,D,X
-  14,R,X
+  14,R,U,X
   15,U,C
-   2,R
    4,D,X
-  14,R,X
-   7,R
-  15,R,D,C
-   4,R
+  18,R,X
+  20,R,D,C
+   1,R
    4,D,X
   11,R,X
   27,R,D
    4,D,X
-   2,R,X
-   1,R,J
-   3,R
+   4,R,X
+   2,R,J
   40
 
 #lvl_3
-   7,R
-   2,R,D
+   2
+   3,R
+   3,D
+   1,R,D,J
    2,J
-  10,R,J
-   4,R
-   4,R,J
-  12,D
-   2,R,D
+   9,R,J
+  16,D
+   4,R,D
    4,D,X
   16,R,X
-  16,R,U,C
-  15,U,X
-  28
+   4,D,C
+  11,R,U,C
+  18,U,X
+  25,D
    4,D,X
   11,L,X
-   3,L
   18,U,C
-  17
+  17,D
   10,L,D
    4,D,X
   14,L,X
-  15,U,C
-  21
-  16,R,D
+  40,U,C
+   9,R,D
+   3,R
    4,D,X
   14,R,X
   20,R,U,C
-  15,R,X
-  11,R
-   4,D,X
+  26,R,X
+   4,D,C
    1,R,J
    7,R
   40
-
+   
 #lvl_4
   11,R,J
    4,D,X
@@ -91,75 +97,76 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
    6,U,X
    4,D,C
   11,R,C
-  15,R,D,X
-   1
+  16,R,D,X
   19,L,D,C
-  27,D,X
-   1,L,D
+  23,D,X
+   1,R,D
+   4,L,D
    4,D,X
-   6,L,X
+   8,L,X
   12,L,J
    1,L
-  19,L,J
-  31,D,X
-  40
+   2,L,J
+  21,L,D
+   4,R,D
+  16,D
+  43
 
 #lvl_5
-  14,D
-  15,R,D
+  17,R,D
+   1,D
+   8,R,D
    4,D,X
   14,R,X
   15,R,U,C
-  15,R,U,X
+  13,R,U,X
    4,D,C
   12,R,C
-  15,D,J,X
-   4,L,D
-  13,L,D,X
-  27,R,C
-   4,D,X
-  11,R,X
-  18,U,C
-  12,L,X
-  15,R,C
-  14,D
+  18,D,X
+  14,L,D,C
+  27,R,X
+   4,D,C
+  11,R,C
+  18,U,X
+  12,L,C
+  15,R,X
+  14
    8,R,D
    4,D,X
   11,R,X
   13,U,C
   15,D,X
-   5,R,D
+   6,R
   15,U,C
    4,D,X
-  17,R,X
-  14,D,C
+  16,R,X
+  13,D,C
   25,R,X
    4,D,C
   11,R,C
-   8,R
-   4,D,X
-   2,R,X
-   1,R,J
+   7,R,D,X
+   4,R,J
    6,R
   40
 
 #lvl_6
-   1,R
+   3,R
    1,R,J
-  15,R,D,X
+  14,R,D,X
   11,U,C
   35,U
-   9,R,U
-   7,R
+   8,R,U
+   8,F,82
   15,R,D,X
-   2,R,D
-   4,D,X
-  11,R,X
+   2,R
+   4,D,C
+  11,R,C
   27,L,U
-  12,R
+   8,U
+   4,R,U
    4,D,X
   11,R,X
-   7,R,D,C
+   6,R,D,C
    1,R,J
    7,R
    1,R,J
@@ -169,78 +176,74 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
 #lvl_7
    6,R,D,X
    1,R,J
-  11,R
-  15,D,X
+  13,R,D
+  12,D,X
    4,D,C
-  14,R,C
+  13,R,C
   15,U,X
    3,R
    4,D,X
-  11,R,X
-   1,R
+  13,R,X
    4,D,C
   11,L,C
-  19,R,D
-   8,R
+  20,R,D
+   7,R
    4,D,X
   11,R,X
-  22,R,C
+  23,R,C
    4,D,X
-  11,R,X
-  15,R,C
-  36,R,U
-  27,U
-   1,U
-  22,U
-  31,D,X
-  15,L,D,C
+  10,R,X
+   9,R,C
+  42,R,U
+  48,U
+   4,X
+  11,D,X
+   3,R,D
+   4,D
+   1,R,D
+   6,L,D
+  14,L,D,X
+   4,D,C
+   9,L,C
+  39,U
+  15,R,U,X
+  14,R,U,C
+   4,D,X
+  10,L,X
+  14,L,J
    4,D,X
   11,L,X
-  32,U
-  24,R,U
-   1,R,U
-   1,U
-   8,U
-   4,D,X
-   8,L,X
-   9,L,J
-   1,L
-   7,L,J
-   4,D,X
-  11,L,X
-   9,U,C
+   8,U,C
   11,U,X
    4,D,C
-  14,L,C
-  24,U
-   5,R
+   5,L,C
+  33,U
+   5,R,U
    4,D,X
    3,R,X
   15,U,C
   15,U,X
   50
-  18,R,X
+  22,R,X
    4,D,C
   10,R,C
-   5,R,J
-   1,R
-  11,R,J
+   6,R,J
+   7,R
    4,D,X
   10,R,X
    1,R,J
-  11,R,D,X
+  10,R,D,X
   40
 
 #lvl_end
-   3,R,D,X
-   1,R,J
-  12,R,D,X
-   2,R,J
+   4,R,D,X
+  11,R,J
    4,D,X
-  35,R,X
-  98,R
-  15,R,C
+   9,R,X
+ 121,R
+   4,R,X
+   4,R,D,X
+   7,R,J
   15,R,U,X
-#end
- 135
-ChapterTime: 0:39.950(2350)
+ 135,R,D
+ChapterTime: 0:39.270(2310)
