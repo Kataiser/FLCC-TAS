@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1660
+RecordCount: 1702
 
 console load FLCC/1-Lobby/LILYBEEVEE_translocation
    1
@@ -10,21 +10,20 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
  190
    
 #lvl_1
-   5,L
-   1,L,J
    4,D,X
-  10,L,X
+   1,R,X
+   1,L,J
+   9
+   4,D,X
    1,R,J
-   5,R,D,X
-   8,R,J,G
-   3,R
-  16,R,D,X
-   1,R,J
-   3,R
-   9,R,D,X
-   3,R,J,G
    5,R,K,G
-   1,R
+   5,R
+  15,R,D,X
+   3,R,J
+   2,R
+  10,R,D,X
+   3,R,J,G
+   6,R,K,G
    2,R,J,G
    6,R
    1,R,J
@@ -246,4 +245,4 @@ console load FLCC/1-Lobby/LILYBEEVEE_translocation
    7,R,J
   15,R,U,X
  135,R,D
-ChapterTime: 0:39.270(2310)
+ChapterTime: 0:39.168(2304)
