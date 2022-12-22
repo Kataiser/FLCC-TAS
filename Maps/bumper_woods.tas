@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1387
+RecordCount: 4870
 
 console load FLCC/1-Lobby/TOBYAAA_forest
    1
@@ -10,213 +10,268 @@ console load FLCC/1-Lobby/TOBYAAA_forest
   76
 
 #lvl_intro
-   4,R,Z
+   6,L,D,X
    1,R,J
-  12,R
+   6,R
    1,R,K
-   1,K
-   1,R
-   5,R,D,X
-   6,R,J,G
-   4,R
-   2,R,J
-   6,R
-   2,R,J
-   6,R
-   6,R,J
-  11,R
-  15,U,X
-  26,R
-  11,R,Z
-   2,R,J
-   5,R,K,G
+   3,R,J
    2,R
-  35
+   8,R,D,X
+   3,R,J,G
+   5,R
+   1,R,J
+   2,R
+   5,R,J
+  18,R
+  14,R,Z
+  10,R,J
+   1,R
+   3,R,J
+   1,R,K,G
+   8,R
+   1,R,K
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   2,R,J,G
+   5,R
+   1,R,J
+   2,R
+   1,R,J
+   1,J
+  40
 
 #lvl_00
-   9,R,J
-   2,R
-  14,R,J
-   1,R
-  15,R,J
-  15,D,X
-  35,R
-  15,U,X
-  10,L,J
-  29,R
-  15,R,D,X
-   1,R,D
-   9,D
-  26,R
-  15,D,X
-  36,R
-  14,R,U,X
-   2,R,J,G
-   2,R
+   1
+   5,R,D,X
    1,R,J,G
+   5
    6,R
-   1,R,J,G
+   6,R,J
+   5,R
+   3,R,J
+   1,R
+   4,R,J
+  13,R
+   1,R,D
+  11,U,X
+  47,R
+   6,L,Z
+  28,R
+  10,L,U,X
+  31,R
+  16,R,X
+   3,R,J,G
+   2,R
+   1,J,G
+   1
+   2,K,G
+   2,R
+   5
+   2,L,J
+  14,L,D,X
+   1,R,J
+   5,R,D,X
+   3,R,J,G
    7,R
   40
 
 #lvl_01
-   3,R
-   2,R,J
-  12,R,D,X
-   2,R,J
-   1,R
-   2,R,J
    4,R
-  10,R,D,X
-  10,L
-  12,L
-  10,R,D,X
-   2,R,J
+  12,R,J
+   5,R
+   8,R,J
+   4,R
+   1
    3,R
-   2,R,J
-  24,R
-  15,R,U,X
-  20,D
-   8,L,D
-  38,R
-  11,D,X
-  31,R
-  15,R,X
+  16,R,X
   11
-  31,R
+  34,R
   15,R,X
-  14,R
-  14,R,Z
-   1,L,J
-  14,L,Z
+  16,R,D
+   1,D
+   3
+  24,R
+   9,R,D,X
+  20,R
+  13,R,D,X
+  21,R
+  12,R,D,X
    1,R,J
-   6,R,D,X
+   3,J
+  14,L,D,X
+   1,R,J
+   5,R,D,X
    1,R,J,G
-  11,R
+   9,R
   40
 
 #lvl_02
-   1,R
+   8,R
+  12,R,J
+  11,R
+  25,R,D,X
+   3,R
+   1,J,G
+   5,R,J
+   1,J
    1,R,J
-   4,R
-  14,R,U,Z
-   1,L,J,G
-  34,R,J
-  19,D
+   2,L
   43,R
   15,D,X
-   7,R,D
-   4,D
-  33,R
-  15,D,X
-  12
-   3,L
-  15,R,U,X
-  12,R
-  10,D
-  19,R
-  15,D,X
-  14,R,D
-   4,R,Z
-  10,R,J
+   5,R,D
+  28,R
+  10,R,D,X
+  18,L
+   5
+   1,L
+  29,R,U,X
+   4
+  17,R
+  19,R,D,X
+   2,R
+   3
+   2,R
   40
 
 #lvl_03
-  10,R,J
-  15,U,X
-   1,L
-  32,L,J
-  11,L,K,G
-  11,J,G
-   5,L,J
-  19,R
-  15,U,X
-   4,L
-  27,R
-  15,U,X
-  12,R
-  15,U,X
-  10,L
-  24,R
-  15,U,X
-   3,R
-  12,R,J,G
-   9,R,K,G
-   7,R
-   4,R,Z
-   1,R,J
    5,R
+   3
+  13,U,X
+  25,L,J
+   2
+   1,G
+  12,J,G
+   2,L,K,G
+   1,K
+   1,L,K
+   2,K
+   1,L
+   1,L,J,G
+   3,R,J
+   8,L,J
+   2,J
+  18,R
+  17,U,X
+   2,L
+  19,R
+  11,R,U,Z
+   1
+  17
+  15,U,X
+   7,L
+  26,R
+  15,U,X
+   1,R
+   1,J,G
+   3,R,J
+   2,J
+   1,R,J
+   5,J
+   7,K,G
+   1,R,K
+   1,R,J,G
+   3,R
+   1
+   3,R
+   6,R,Z
+   1,R,J
+   3,R
   40
 
 #lvl_04
-   2,R
-  24,R,J
-  14,R
-   2
-   5,L,D,X
-  34,R
-   8,U,X
-  24,R
+   4,R
+  12,R,J
+   6,R
+   3,R,J
+  12,R
+   3
+   8,L,D,X
+  31,R
+   8,U,Z
+  22,R
   15,R,D,X
-  18,R
-   2
-  15,U,X
+   4,R
+  15
+   1,R
+   1
+   1,R
+  15,U,Z
    5,L
-   6,R,J
+   6,J
   40
 
-#lvl_05
+#lvl_05 (0)
   11,L
-  15,L,X
-  15,U,C
-  10,L,J,G
-   9,L
-  11,L,J
+  10,L,X
+   1,L,J
+   4,J
+  17,U,Z
+   2,L,J,G
+   1
+   1,L,K,G
+   7,L
+   9,R,J
+   3,J
   15,U,X
-   4,L
-   6,R,J
+  11,R,J,G
   40
 
 #lvl_05a
-  11,R
-  11,R,Z
-   4,R,J
-  14,R,Z
+   1,L
+   1,R
+   6
+   1,J,G
+   2,L
+   5,R,Z
    1,R,J
-   9,R,D,X
+   3,R
+   1
+   2,R
+   1,R,D,J
+   1,J
+   3,R,J
+  14,R,D,X
    1,L,J
-   7,L
+   2,L
+  13,L,D,X
    1,L,J
-   8,L,D,X
-   1,L,J
-  21,R,D
+   8,L
+  12,D,X
   40
 
-#lvl_05
-   1,R,D
-  15,R,D,X
-  15,R,D
-  18,D
-   1
-
-  11,R,D,X
-   4,R,J
+#lvl_05 (1)
+   2,L,D
+  39,R,D
+   4,Z
+   1,R,J
+   3,R
+   1,J
+   3
+   1,R,D,J
+   3,R,K,G
+   3,R,J,G
    5,R,D,X
-   7,R,J,G
-   1,R,K,G
-  13,R
-  35,R,J
-  15,R,U,X
-  12
+   2,R,J,G
+   1
+   7,R
+   1,R,J
+   3,R
+  12,R,J
    6,R
-  12
-   2,R
-  55,R
-  15,R,U,X
-  11,R
-   6,R,J,G
-   8,R
-   4,R,Z
+   2,J
+   6
+   1,R
+   5
+   1,D
+  15,R,X
+  11
+  45,R
+   8,R,U,X
+   1,R,J,G
+   1,L
+   6,R
+   4,Z
    1,R,J
    7,R
    2,R,J
@@ -227,86 +282,105 @@ console load FLCC/1-Lobby/TOBYAAA_forest
 
 #lvl_06h
    4,R,J
-   3,R,K,G
-   4,R,D,X
-   2,R,J
-  18,R
-  35,D,X
-   2,L,D
-  10,R,C
+   5,R,K,G
+   3,R
+  15,R,D,X
+  15,D,C
+   2,R
+   3,D
+   9,L,D
+  15,R,D,X
    8,R,J
-  15,U,X
+  14,U,X
+  18,J
+   1,L,K,G
+   1,L
+   1,J
+   2,K,G
+   8,R,K
    4,R
-  15,L,J
-  12,R,K
-   7,R
-   4,R,Z
+   3
+   4,Z
    7,R,J
    1,R,K,G
    8,R
   40
 
-
-#lvl_06_antechamber
- 102
-  10,L,J
+#lvl_06_antechamber (0)
+   7,R
+  14,L
+  64
+   1,J
+   8
+   2,J
+   5
+   7,J
+   1,R,J
+   1
+   1,R
   10,R,X
-   6,R,J
-   8,J
-   7,R,J
-#4729 -> 4733 
-  15,R,U,X
-   9,R
-   8,R,J,G
-
+  18,R,J
+  24,R,U,X
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   1,L
+   3,R,K,G
    7,R
-   5,L,Z
+   4,Z
    1,R,J
-   7,R
-  10,R,J
-  15,R,D,X
-   2,R
-   2,R,J
+   6,R
+   9,R,J
+  16,R,D,X
+   1,R,J
+   6,R,D,X
   40
 
-#lvl_06_antechamber
-   5,L,X
+#lvl_06_secret
+   1,L,J
   40
 
-#lvl_06_antechamber
+#lvl_06_antechamber (1)
    1,S
-   1,D,O
-  69,J
-
-  13,L,Z
+   1,D,J
+  69,O
+   8,L,Z
    1,R,J
-   7,R
-   2,R,J
+   5,R
   40
 
 #lvl_06_g
-   6,R,J
-  10,R,K,G
    1,R
-  18,R,K
-  15,U,X
-  51,R
-   7,L,D,X
-  29,R
-  14,R,D,X
-  25,R
-  15,R,Z
-   4,R
-   3
+   4,R,K
    1,R
-   6
-  36,R
-  15,L,D,X
-  62,R
+   1,R,J,G
+   1,R
+   1,K,G
+  11,R,K
+   6,R
+   1,R,K
+   1,R
+   4,R,K
+   3,R
+   9,U,X
+  49,R
+   1
+   1,R
+   4
+   6,D,X
+  22,R
+  14,U,X
+  60,R,D
+   2,D
+   2
   15,R,X
-  31,R
-  15,R,D,X
-  20,R
-#end
- 124
-ChapterTime: 0:53.669(3157)
+  12
+  46,R
+   3
+   9,L,D,X
+  17
+  14,R,Z
+ 149,R
+
+ChapterTime: 0:48.603(2859)
