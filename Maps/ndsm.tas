@@ -7,7 +7,7 @@ console load FLCC/1-Lobby/IAMDADBOD_0
    1
 
 #Start
- 190
+  75
 
 #lvl_a-01
    4,R,Z
@@ -265,4 +265,4 @@ console load FLCC/1-Lobby/IAMDADBOD_0
    1,J
   60
 
-ChapterTime: 0:53.584(3152)
+ChapterTime: 0:51.629(3037)
