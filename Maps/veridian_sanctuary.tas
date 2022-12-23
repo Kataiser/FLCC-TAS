@@ -3,7 +3,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1599
+RecordCount: 1723
 
 console load FLCC/1-Lobby/TCOOKIEM_VeridianSanctuary
    1
@@ -166,12 +166,14 @@ console load FLCC/1-Lobby/TCOOKIEM_VeridianSanctuary
 #lvl_05
    7,R,J
   14,R,U,Z
-  10,R,J,G
+   9,R,J,G
+   1,R
    1,R,K,G
    4,L,K
    6,R,K
+   1,R
    1,R,J,G
-   4,R,K,G
+   3,R,K,G
    3,R
    2,R,J
    3,R
@@ -180,7 +182,7 @@ console load FLCC/1-Lobby/TCOOKIEM_VeridianSanctuary
    2,R,J
   26,R,D
    7,R
-  12,R,X
+  11,R,X
    9,R,J,G
    5,R
    3,R,J
@@ -251,23 +253,20 @@ console load FLCC/1-Lobby/TCOOKIEM_VeridianSanctuary
   14,L,Z
    1,R,J
   10,R,D,X
-  10,R,J
-   1,R
-  16,R,J,G
+   9,R,J
+   2,R
+  17,R,J,G
    1,J
    1,R,J
   14,U,X
-  10,L,J
-   5,J
-   1,K,G
-   2
-   5,L
-   1,L,J
+  13,L,J
    2,L
-  11,L,X
-   1,L,J
-  11,J
-  18,U,X
+   1,L,K,G
+   7,L
+   2,L,J
+  10,L,X
+  12,J
+  19,U,X
  135
 
-ChapterTime: 0:34.340(2020)
+ChapterTime: 0:34.323(2019)
