@@ -1,10 +1,12 @@
-RecordCount: 275
+RecordCount: 730
 
 console load FLCC/1-Lobby/TOBYAAA_Z_hs
    1
 
 #Start
  190
+
+#lvl_main
 
 #Bottom left torch: DR DL UL D R UR DL DR R L R UR U
    5,R,D,X
@@ -19,190 +21,214 @@ console load FLCC/1-Lobby/TOBYAAA_Z_hs
   15,D,X
   15,R,C
    5,R,U,X
-   1,R,J,G
-   9,R,D
+   1,J,G
+   9
    5,L,D,X
    1,R,J
-   9,R,D
-   5,R,D,X
-   1,R,J
-   9,R,D
-  15,R,X
+   9
+  15,R,D,X
+  15,R,C
    5,L,Z
    1,R,J
-   9,R
+   9
   15,R,X
    5,R,U,C
-   1,R,J,G
-   7,R,D
-   2,R
+   1,J,G
+   1,R
+   1
+   1,R
+   6
    5,U,X
-   1,R,J
-   9,R
+   1,J
+   1,R,K,G
+   8
 
 #Right torch: DR D UL DL R UL U L L DR L UR DL
    5,R,D,X
-   1,R,J
-   3,R,D
-   3,L,D
-   1,R,D
-   1,L,D
-   1,R,D
-  10,D,X
-   1,J,G
-   4,L
-   6,L,U,C
-   1,R,J,G
-   1,L
-   1,L
-   1,R
-   1,L
-   4,R
-   4,R,J
-   4,R,D
-  16,L,D,X
-   5,R,Z
-   1,L,J
-   5,L,G
-   4,L,D
-   7,L,U,X
-   1,R,J
-   7,R
-   1,L,J
-   6,U,X
    1,J
-   2,L
-   1,L
+   2,R
+   1
+   1,R
+   5
+  14,D,X
+   1,J,G
+   5,L,U,C
+   1,R,J,G
+   9
+   5,L,D,X
    1,R,J
-  10,R,D
+   9
+   5,R,Z
+   1,J
+   1,R
+   1
+   1,R
+   6
+   5,L,U,X
+   1,R,J,G
+   7,L
+   2,J
+   5,U,X
+   5,L,J
+   1,R,K
+  10,R
    5,L,Z
    1,R,J
-   9,R,D
+   9
    5,L,Z
    1,R,J
-   9,R,D
+   9
   15,R,D,X
    5,L,Z
    1,R,J
-   7,R,D
-   2,R
+   9
    5,R,U,C
-   1,R,J,G
-   7,R,D
-   2,R
+   1,J,G
+   9
    5,L,D,X
    1,R,J
-   7,R,D
-   2,R
+   9
 
 #Top left torch: R U DL R U DR DR UL UR L DR D D
-  10,R,X
-   5,R,J
-   5,U,C
+   5,R,Z
    1,J
-   9,R
-   5,L,D,X
-   1,R,J
-   7,R,D
-   2,R
-  10,R,X
-   5,R,J
+   1,R
+   1
+   1,R
+   6
    5,U,X
    1,J
-   9,R
+   1,R,K,G
+   8
+   5,L,D,X
+   1,R,J
+   9
+   5,R,Z
+   1,J
+   1,R
+   1
+   1,R
+   6
+   5,U,X
+   1,J
+   1,R,K,G
+   8
+  10,R,D,X
+   1,R,J
+   5,R,K,G
    5,R,D,X
-   1,R,J
-   7,R,D
-   2,R
-  11,R,D,X
-   2,L,J
-   1,L
-   1,L,J
-   6,L,U,Z
+   2,R,J,G
+   1
+   1,R,D
+   4
+   2,J
+   5,L,U,X
+   1,R,J,G
+   6
+   3,R,J
+   8,R,U,X
    1,J,G
-   7,L
-   2,R
-  11,R,U,X
-   1,J,G
-   7,R
+   6
    5,L,Z
-   1,L,J
-   9,L
-  12,R,D,X
    1,R,J
-   2,R
-  15,D,X
+   9
+  15,R,D,X
   15,D,C
+  15,D,X
 
 #Middle torch: R UR D UL UR L DL UL DR U DL U U
-  10,R,X
-   5,R,J
-   5,R,U,C
-   1,R,J,G
-   4,R
-   4,L
-   1
-   5,D,X
-   1,L,J
-   4,L
-   6,L,J
-   7,L,U,Z
-   1,J,G
-   7,L
-   2,R
-  10,R,U,X
-   1,J,G
-   7,R
-  11,L,Z
+  14,R,C
    1,R,J
-   3,R
-   6,L,D,X
-   9,D
-   2
-   2,R
-   7,L,U,Z
+   5,R,U,X
    1,J,G
-   6,L
-   2,R
-  10,R,D,X
-   5,R,J
-   5,U,X
-   1,J
-   9,R,D
+   9
+   4,X
+   6,D,X
+   2,R,J,G
+   2,J
+   1,R,J
+   5,L,U,X
+   1,R,J,G
+   6
+   3,R,J
+   8,R,U,X
+   1,J,G
+   6
+   5,L,Z
+   1,R,J
+   9
    5,L,D,X
    1,R,J
-   7,R,D
-   2,R,J
+   1,R
+   1
+   1,R
+   6
+   5,L,U,X
+   1,R,J,G
+   9
+   5,R,D,X
+   1,J
+   3,R
+   1
+   1,R,D
+   4
    5,U,X
+   1,J
+   1,R,K,G
+   8
+   5,L,D,X
+   1,R,J
+   9
+   5,U,X
+   2,J
+   2
+   1,J
+   3
+   1,J
+   1
+  11,U,X
+
+#Finish
+   1,L,J
+   1,L,K,G
+   9,L
+   6,L,J
+   1,L,K,G
+   7,L
+   2,L,K
+   2,L
+   1,L,J
+   1,L,K,G
+   9,L
+   1,L,J
+   4,L
+   4,L,K,G
+   2,K
+   4,L,J,G
+   2
+   2,J,G
+   2
+   1,L
+   1,L,K,G
+   9,L
+   4,L,J
+   7,L
+   2,L,J
+  14,L
+   1,J,G
+   1,L
+   1
+   1,L
+   2
+   1,L
+   1,R
+  11,R,J
+   7,R
+   1,R,J
+   1,R
    1,R,J
    5,R
-   1,L
-   1,J
-   1,L,J
-   1,L
-   9,U,X
-   1,J
-   1,R,G
-  10,R
-  14
-   4,Z
-   1,L,J
-   7,L
-   9,L,J
-   5,L,Z
-   5,L,J
-   4,L,K,G
-   8,L
-   1,L,J
-  11,L,U,X
-   4,L,J,G
-   8,L,K,G
-  20,L
-   1,L,J
-  14,L,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
- 145,R,U,X
+  67,R,X
+  72,R,J
 
-ChapterTime: 0:15.538(914)
+ChapterTime: 0:15.113(889)
