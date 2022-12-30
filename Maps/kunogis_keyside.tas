@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 682
+RecordCount: 888
 
 console load FLCC/1-Lobby/KUNOGI_Z_KeySide
    1
@@ -166,6 +166,7 @@ console load FLCC/1-Lobby/KUNOGI_Z_KeySide
    1,D,J
   17
 
+
 #lvl_2 (3)
   92
    2,J
@@ -182,15 +183,19 @@ console load FLCC/1-Lobby/KUNOGI_Z_KeySide
   17,U,Z
    6,R
   15,U,X
-   8,R
+   7,R
+   1,L
   16,U,X
-   6,R
+   5,R
+   1,L
   15,U,X
-   6,R
+   5,R
+   1,L
   15,U,X
    8,R
+   1,L
   15,U,X
-   6,R
+   2,R
    1,L
   10,L,U,X
   38
@@ -417,4 +422,5 @@ console load FLCC/1-Lobby/KUNOGI_Z_KeySide
   14,L
    2,R
  149,R,D,X
-ChapterTime: 1:23.504(4912)
+ChapterTime: 1:23.453(4909)
+#1:23.504(4912)
