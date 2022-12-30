@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1404
+RecordCount: 1419
 
 console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
    1
@@ -456,13 +456,11 @@ console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
    4,R
   14,R,X
   10,R,J
-  24,L,D
-  10,D
-  10,L,Z
-   8,R,J
-   7,R
-  14,R,Z
-  14,R,J
+  10,R
+  25,R,D,X
+   5,R,Z
+   1,R,J
+  19,R,K
   12,R,X
   10,R,J
   17,R
@@ -551,6 +549,6 @@ console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
   15,R,U,X
  135
 
-ChapterTime: 1:13.610(4330)
+ChapterTime: 1:13.151(4303)
 
 
