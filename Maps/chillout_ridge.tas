@@ -1,0 +1,224 @@
+#By Phrog
+RecordCount: 413
+
+console load FLCC/1-Lobby/TODD_Chillout_Ridge
+ 
+
+#Start
+   1
+
+#lvl_1
+  69
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  13,R
+   2,R,J,G
+   1,R,K,G
+  11,R
+   1,R,J
+  13,R
+   1,R,J,G
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  40
+
+#lvl_2
+   3,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+   8,R
+  12,R,Z
+  33,R,J
+  25,R,G
+   1
+   1,J
+  25,R,J
+  19,R,G
+  19,L,J
+  33,L,G
+  11,L,J,G
+  20,L
+   2
+  28,L,J
+  30,L,G
+  24,R,J
+  14,R,Z
+   7,R,J
+   1,R,K,G
+  11,R
+  40
+
+#lvl_3
+   2,R
+   1,R,J
+  15,R
+  10
+   9,R,D,X
+  17,R,J
+   1,R,K,G
+  36,R,J,G
+   1,R,G
+  15,R,J,G
+   1
+   4,L,J
+   5,J
+  32,L,G
+  13,U,X
+   6,R,J
+ 217,R,U,J,G
+   1,L
+  24,R
+  18,R,J
+  11,R,K,G
+  12,R,J,G
+  15,R,K,G
+ 113
+  40
+
+#lvl_4
+  71
+  21,L,J
+  10,L,D,X
+  17,R,J
+  12
+   8,D
+  14,R,X
+  18,R,J
+  14,R,D,X
+  14,R,J
+   1,R,K,G
+  14,R,J,G
+  16,R,D
+  16,R,U
+  32,R,D
+  13,R,X
+   1,R,J,G
+   1,R,K,G
+  28,R,J,G
+  13,R,D,X
+  14,R,J
+  40
+
+#lvl_5
+  12,R
+   6,R,J
+  10,U,Z
+  15,R,U,X
+   3,R
+  15,U,X
+  26,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   5,R
+  15,U,X
+  15,R,J
+  15,R
+  11,R,J
+  13,R,Z
+   8,R,J
+  12,R
+  14,U,Z
+  15,L,U,X
+   3,L
+  13,L,Z
+  20,L,J
+  16,U
+  13,J
+  16,U
+  13,J
+  13,R,Z
+   1,R,J
+  11,R
+   4,L
+   6,L,D
+   5,D
+  10,R,D,X
+  13,R,J
+  10,R,D,X
+  13,R,J
+  10,R,Z
+  11,R,J
+   7,R
+  40
+
+#lvl_6
+  13,R,J
+  10,R,D,X
+   9,R,J
+   8,R,K
+   9,R,J
+   8,R,K
+   8,R,J
+   8,R,K
+   8,R,J
+   7,R,K
+   7,R,J
+   7,R,K
+   8,R,J
+   8,R,K
+   7,R,J
+   7,R,K
+   7,R,J
+  16,R,K
+ 162,R,U,G
+  29,R
+  15,U,X
+  50,R,G
+  27,R,D,G
+   9
+  11,D,X
+  11,R,D,C
+  13,R,X
+  10,R,U,C
+  11,U,X
+  13,U
+ 125,R,U,G
+   6,R,D,G
+   5,R,U,G
+  14,R
+  27,D
+  31,L
+  14,U
+  14,U,C
+  15,U,X
+ 125,R,G
+  12,R,D,G
+   1,L
+   9,R
+  15,R,X
+ 189
+  40
+
+#lvl_END
+  37
+  10,R,J
+  15,U,X
+ 134
+
+
+ChapterTime: 0:56.321(3313)
