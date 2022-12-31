@@ -15,95 +15,91 @@ console load FLCC/1-Lobby/HYPERLIFE_flusheline_hyperlife_overgrown
    1,R,K
    1,R,J
    1,R,K
-   1,J
-  14,R,U,X
-  12,R,J,G
-   9,R
-   1,R,K
-   4,L,J
-   6,L
+   3,J
+  13,R,U,X
+  11,R,J,G
+   7,R
+   6,L,J
+   7,L
   15,U,X
   10,R
    4,Z
-   1,R,J
-  10,R
-  15,D,X
-  35,R,D
+   2,R,J
+   6,R
    1
-   5,R,Z
-   1,R,J
-   7,R
+   4,L
+  25,D
+  16,R,D
+  14,R,D,X
    1,R,J
   40
 
 #lvl_00-2
-   2,R
-  12,L
-  10,L,J
-   2,L
+   7,R
+   5,L,J
+   4,R,J
+   3,L
   15,R,Z
-   1,R,D
-  11,L,D
-   3,D
-   4,J
-   4,R
-  14,R,Z
+  14,D
+   3,L,J
+   3,R,J
    1,L,J
+  15,R,Z
   15,D,X
-   1,J
    6,R,J
   15,R,Z
-  18,R,D
+  15,R,D
+# Adjust for Spinner Cycle
+   4,D
+   1,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
   11,R,D,X
-  40
+  43
 
 #lvl_00-3
-   6,R
+   3,R,D,X
    1,R,J
-  14,R,U,Z
-   1,L,J,G
-   7,R,J
-  30,R
-   1,J
-   6,L,J
-  15,U,X
-  19,L,J
-  25,D
-  21,R,D
-   1,G
-   4,D
-  15,R,D,X
-  22,L,D
-   5,L,Z
-   1,L,J
-  16,L
-  18,L,D
+  14,R,D,X
+   1,R,J
+   7,R
+  18,R,J
+  14,U,X
+  11,L,J
+  30
+   8,D
+  31,R,D
+  14,D
+  10,R,D,X
+   2,L,J
+  17,L
+  17,L,D
+repeat 9
+   1,S,N
+  10,O
+   2,L,D
+endrepeat
 repeat 4
    1,S,N
   10,O
-   2,L,D
-endrepeat
-   1,S,N
-  10,O
-   5,L,D
-   1,S,N
-  10,O
-   2,L,D
-repeat 7
-   1,S,N
-  10,O
    2,D
 endrepeat
-repeat 5
    1,S,N
   10,O
-   2,D
+   1,D
+   1,R,D
+repeat 2
+   1,S,N
+  10,O
+   2,R,D
 endrepeat
-repeat 11
+   1,S,N
+  10,O
+   1,D
+   1,R,D
+repeat 14
    1,S,N
   10,O
    2,R,D
@@ -111,12 +107,12 @@ endrepeat
    1,S,N
   10,O
    5,R,D,X
-repeat 6
+repeat 3
    1,S,N
   10,O
    2,R,D
 endrepeat
-  10,R,D
+  11,R,D
   40
 
 #lvl_02-4
@@ -214,8 +210,8 @@ endrepeat
    4,L,Z
    1,L,J
    7,L
-   2,L,J
-  14,U,X
+   3,L,J
+  13,U,X
   12,L,J
    1,K
    7,L
@@ -236,58 +232,42 @@ endrepeat
 #lvl_up
   26,R,D
    1,G
-  10,R,J,G
+   9,R,J,G
   14,U,X
    8,R,J
    2,R
   10,K,G
    7
-  11,K
-   1,L,K
-   1,J,G
-   3,L,J
-   5,J
-   1,L,J
-   1,R
-   1,L
-   4,L,K,G
-  15,U,X
-  10
-   5,L,J
-   1,K
-   5,R,J
+   3,J
+  14,U,X
+  15,L,J
+  11,L
+
+  12,J
   14,U,X
   18,J
-   9,K,G
-   1,L,K
-   1,R,K
-  11,J
-   1,L,J
-   1,K,G
-   3,L,K
-   5,K
-   1,L,K
-   1,R,K
-   1,L,K
-  10,J,G
-   1,R,K
-   1,L,K
+  12,R,K,G
   12,L,J,G
-  10,K,G
-   1
+  11,K,G
    1,R,K
-  11,J
-   7,R
-   5,R,J
+   1,J
+  11,L,J
+  12,L,K,G
+  12,L,J,G
+   8,K
+   1
+   1,K
+   8,R
+   6,R,D,J
   14,U,X
   18,R,J
-  12,K,G
-   1,J
-   4,L,K
+   8,L,K
+   4,L
+   1,L,J,G
    7,L
-  19,J
+  21,J
   15,U,X
-   8
- 135,L,D
+  20
+ 122,L,D
 
-ChapterTime: 0:39.457(2321)
+ChapterTime: 0:38.454(2262)
