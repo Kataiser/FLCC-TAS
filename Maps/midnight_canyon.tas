@@ -2,111 +2,113 @@
 
 RecordCount: 736
 
-#Start
 console load FLCC/1-Lobby/DRIVANKO_midnightcanyon
    1
 
-#lvl_a1
+#Start
  190
 
+#lvl_a1
    1,J
   11,R,J
   11,R,X
    4,R,Z
   14,R,J
-   7,R
-  15,R,Z
-  12,R
-   4,R,Z
-   3,R,J
-   3,R,K,G
-   9,R
+   3,R
+  15,R,X
+   8,R
+   5
+  10,R,D,X
+   1,R,J
+   4,R,K,G
+  10,R,D,X
   40
 
 #lvl_a2
-   6,R
-   8,R,X
+   4,R,D,X
+   1,R,J
+   6,R,D,X
    4,R,Z
-   8,R,K
-  11,R
+   7,R,K
+  12,R
   15,U,X
-   6,R
-   5
-  86,D
-   4,R,J
-  11,L,D,X
-  32,R,J
-  11,R
-  13,U,X
-  12,R,J
+   6
+   4
+  70,D
+   7,L
+  10,R,D,X
+   1,R,J
+   4,R
+  30,R,J
+  15,U,X
+  14,R,J
   15,L,X
    4,L,C
-  23,L,J
+  22,L,J
    9,U,X
-  13,R,J
-  12,R
-  11,R,D,X
-  23,L,J
-  11,L,U,X
-  13,R,Z
-  10,R,J
+  16,R,J
+   5,R
+   3,L
+  10,R,D,X
+  11,L,J
+   9,L
+  13,L,U,X
   10,R,Z
+  10,R,J
+  11,R,Z
    5,R,J
   15,R,D,X
-  21,R,J
+  24,R,J
   15,R,U,X
-  21,R
+  18,R
   40
 
 #lvl_a3
-  46
+  47
   14,R,Z
    1,R,J
-  13,R,X
-   7,R,Z
-   7,R,J
-  15,R,D,X
-   8,R
+  11,R,D,X
+   8,R,Z
+   1,R,J
+   6,R
+  18,R,D,X
   23,R,J
-  12,R
-  15,U,X
+  13,R,J
+  13,U,X
   28,R,J
   12,R
   15,R,X
    6,R,Z
-   8,R,J
+   5,R,J
+   4,R
   15,R,D,X
-   2
    2,R,J
-   1
-  15,R,D,X
-   3
+  17,R,D,X
   40,R,J
-  15,R,U,X
-  13,R
-   6,G
-   6,J,G
-  13,L,K
-   4,L,J,G
-   4,L
-  15
+  15,U,X
+  10,L,J,G
+   2
+   5,L,K,G
+   5,L
+   2,R
   21,R,J
-  15,R
-  11
-  11,R,D,X
-  24,R,J
+  15,R,D
+  47,D
+   1,L,J
+   5,L
   14,R,D,X
-   2,R,J
+  23,R,J
+  14,R,D,X
+   1,R,J
+   1,R
   40
 
 #lvl_a4
-   5,R,D,X
-   1,R,J
-   8,R
-  28,R,J
+   6,R
+  30,R,J
   14,R,Z
    1,R,J
-  14,R,Z
+  14,R,D,X
    1,L,J
   15,D,X
    5,L
@@ -148,53 +150,53 @@ console load FLCC/1-Lobby/DRIVANKO_midnightcanyon
    1,J,G
    7,R,J
   23,R
-  13,R,X
+  14,R,X
+  20,R,J
+  14,U,X
+  11,R,J
+   8,R
+   2,R,J
+  13,R
+   5,R,J
+  12,R,U,X
+  12,L,D,C
+   1,L,J
+   2,L
+  12,R,X
    1,R,J
-  23,R,J
-  12,U,X
-  10,R,J
-  11,R
-  13
-   7,R,X
-   8,R,J
-  15,U,X
-  24
-   8,R,D
-  10,R,Z
+   2,L,J
+  11,R,Z
   40
 
 #lvl_fil6
-   1,S
-   1,D
-   1,J
- 103
-   6,L,J
+   4,R
+  15,D,X
+   2,L,D
+   9,D
+   2,L,J
   11,R,D,X
    6,R,J
   22,R
   12,U,X
   12,L,J
-   1
-  11,L
-   1,J
-  27,L,J
-   1,L,G
-   1,L,J,G
-   1,L
-  12
-  11,L,Z
+   8,L
+   4,L,J
+   1,K
+  27,L,K
+  10,L,Z
   69,R,J
   14,R,Z
    1,R,J
-   9,R,Z
+   8,R,D,X
   40
 
 #lvl_key
-   6
+   6,R,D,X
+   1,R,J
   15,R,D,X
   15,R,D,C
   15,R,D,X
-  15,R,Z
- 137
+  24,R,Z
+ 122
 
-ChapterTime: 0:41.803(2459)
+ChapterTime: 0:39.117(2301)
