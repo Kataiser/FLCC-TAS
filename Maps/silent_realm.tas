@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1514
+RecordCount: 1635
 
 console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
    1
@@ -209,6 +209,7 @@ console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
   29,R,J,G
 #waiting for the switch gate
    3
+#
   11,R,X
    4,R,J,G
   23,R
@@ -319,15 +320,13 @@ endrepeat
   12,R,J
    9,R
   14,R,X
-
-#take lower demo spot probably
-  19,R,J
+   5,R,J
+   5,J
+  18
+   7
   15,R,Z
-  15,D,X
-   1,L,J
-   3,L
-  14,R,D,X
-  21,R,J
+   8,R,D,X
+  23,R,J
   12,U,X
    4,R,J
    9,J
@@ -449,10 +448,9 @@ endrepeat
    5,R,Z
    1,R,J
   19,R,K
-#SPINNER CYCLE
-   1
+#SPINNER CYCLE 2
+   2
 #####
-
   12,R,X
   10,R,J
   17,R
@@ -541,6 +539,6 @@ endrepeat
   15,R,U,X
  135
 
-ChapterTime: 1:11.723(4219)
+ChapterTime: 1:11.672(4216)
 
 
