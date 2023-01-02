@@ -1,6 +1,6 @@
 # By Phrog
 
-RecordCount: 750
+RecordCount: 868
 
 console load FLCC/1-Lobby/EVANKRUSHER_Dord
    1
@@ -127,38 +127,49 @@ console load FLCC/1-Lobby/EVANKRUSHER_Dord
    5,R,J
   13,R,X
   17,R,J
-  19,U,X
+  20,U,X
    4,L,Z
-  18,L,J
-   1,G
-  10,L,K,G
-  14
-  11,G
-   1,L,J,G
+  16,L,J
+   2,J
+   2,L,K,G
+   8,G
+   1
+   1,J
+  15,L,J
+   4,L
+   4,L
+   9,G
+   1
+   1,J
    1,L,K,G
-   2,J,G
-  14,R,Z
-   6,R,J
+   5,R,K
   15,R,D,X
-  26,R,J
-  28,U,X
-  10,R,C
-   4,R,Z
-   7,R,J
-   8,R
-  16,R,D,X
-   9,R,J
-  18,R,D,X
-  18,R,J
-  17,R,X
-  16,R,J
+   1,R,D
+   1,R,J
+  18,R,U,X
+   1,R,J
+  22,U,C
+   3,R,X
+   4,R,J
+   7,R,Z
+   1,R,J
+   2,R,K
+   5,R
+  17,R,D,X
+   8,R,J
+  15,R,D,X
+  13,R,J
+  14,R,X
+  13,R,J
   14,R,X
   13,R,J
    7,R,Z
-  11,R,J
-  10,R
+  12,R,J
+   7,R
+   2
    2,L,J
-  16
+   2,L
+  14
    1,J
   14,R,J
   14,R,Z
@@ -194,7 +205,6 @@ console load FLCC/1-Lobby/EVANKRUSHER_Dord
    8,L,J,G
    4,L
    1,J
-
    5,L,J
    5,L
    4,L,J
@@ -257,6 +267,6 @@ console load FLCC/1-Lobby/EVANKRUSHER_Dord
   10,R,J
   15,R,U,X
   14,L
- 123
+ 122
 
-ChapterTime: 0:45.050(2650)
+ChapterTime: 0:44.387(2611)
