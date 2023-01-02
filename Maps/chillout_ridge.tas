@@ -1,14 +1,13 @@
 #By Phrog
-RecordCount: 715
+RecordCount: 847
 
 console load FLCC/1-Lobby/TODD_Chillout_Ridge
- 
-
-#Start
    1
 
-#lvl_1
+#Start
   69
+
+#lvl_1
    5,R
    1,R,J
   14,R
@@ -80,17 +79,34 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
    1,R,J
   15,R
    1,R,J
-   6
-  14,R,D,X
-  14,R,J
-  23,R,K,G
-  10,R
-   1,R,G
+   7
+   9,L,D,X
+   1,R,J
+   7,R
+   4,R,J
+   5,R
    1,R,J,G
-  10,R
-   5,J
-   2,R
-  32,L,G
+  17,R
+   2,R,J
+   3,K
+   7,L
+
+#make this work somehow
+#  22,L,G
+#  15,U,X
+#   1,R,J
+#   1,L,K,G
+#   1,L,J,G
+#   1,R,K
+#  22,R,U,J,G
+#repeat 500
+#   1,S
+#  10,J
+#   2,R,U,J,G
+#endrepeat
+#####
+
+  27,L,G
   14,U,X
  200,R,U,J,G
   10,R,G
@@ -123,12 +139,13 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
    3,R,J,G
   27,R,K,G
   11,R,D,X
-   6,R,J
-   9,R
+   5,R,J
+   2,R
+   1,R,J
+   7,R
   40
 
 #lvl_5
-   1,R
   12,R,J
   10,U,Z
   15,R,U,X
@@ -216,18 +233,17 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
   14,U
   14,U,C
   15,U,X
- 125,R,G
-  12,R,D,G
+ 115,R,G
+  10,R,D,G
    1,L
-   9,R
-  15,R,X
- 189
+  17,R,D
+ 204,R,X
   40
 
 #lvl_END
-  37
+  37,R,X
   10,R,J
-  15,U,X
- 134
+  13,U,X
+ 135
 
-ChapterTime: 0:54.978(3234)
+ChapterTime: 0:54.417(3201)
