@@ -11,100 +11,116 @@ console load FLCC/1-Lobby/WOOMII_dustbowl
 
 #lvl_startroom
   14,R,X
-  20,R,J
+  21,R,J
   15,R,U,X
-   6,R,J
+   5,R
   12,K,G
-   8,R,U,G
+   7,R
   10,R,X
-   9,R,U,J
-   4,L,K
+  12,R,J
+   3,K
   15,U,X
-   8,U,J
-  27,R,U,J
+  35,R,J
   12,K,G
-   8,J,G
-   8,K
-  17,R,K
-  12,R,J,G
-  10,R,K,G
-   9,R,U,G
-  14,R,D,X
+   7,J,G
+   1,L,J
    1,R,J
-   9,R,D,X
+  14,R,K,G
+  14,J,G
+   7,K,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_r1
-   1,R,D,X
-   5,R,J
-   6,R,D,X
-  19,R,J
-   8,R,K,G
-   8,R,U,G
-   1,R
-   3,L
-   2,L,D,J
+   3,R,D,X
    1,R,J
-  11,L,J
-   6,R,J
-  15,R,U,X
-  11,R,J
-
-# Might be possible to demo dash through the spinners
-#   1,L,K
-#  16,L
-#   1,J
-#   3,R
-#   3,L
-#   1,L,J
-#   7,R
-#   4,R,J,G
-#   1,R
-# 999,R,J
-
-   3,R,K,G
-  13,R,D
-  26,D
-   7,L,D
-   3,L,K,G
-  22,R,J
-  15,R,U,Z
-  13,R,J
-  11,R,K,G
-   4,J
-  21,R,J
-   7,R,K,G
-   7,R,U
-   7,L,U,J
-  16,U,X
-  22,L,U,J
-  14,K,G
-   1,J
-  24,L,J
-   8,K,G
-
-# A possible quarter-cycle shave
-#  19,L,U,G
-#   8,L,J,G
-#  32,L,D
-#   4,R,D
-#  11,L,J
-#   1,L
-#  99,L,J
-
-   7,L,J,G
-  33,L,D
+   7,R
+  11,R,D,J
+   6,R
+   1,R,J,G
+   7,R
+   1
+   1
+   4
+   8,R
+   7,D,J
+   1,R,D,J
+  15,U,X
+  16,R
+   1,R,J,G
+   5,R
+   1,R,J
+   9,R
+   1,R,K
+   9,R
+  15,R,Z
+## Jumping from the ledge at 418f (~11f faster than currently) lets you catch the next cycle
+#Set, Player.Speed, 0, 0
+#Set, Player.Position, 604.8, 8
+#  41
+  11
+   2,R,D
+   2,D
    3,R,D
-   1,J
-  21,R,J
-  13,D
-  15,J
-   7,L
-  14,L,D,X
-  17,L,J
-  15,L,U,X
+   1,J,G
+   1,L,J
+   1,R,J
+   9,R,K,G
+   2,K
+   6,R,K
+   7,R,J,G
+   5
+   2,R
+   2
+ 105
+   6,L,J
+   6,J
+  15,U,X
+  19,L,J
+  10,K,G
+   1,J,G
+   1,R,J
+   1,L,J
+   9,L,K,G
+   1,K
+   5,L,K
+   1,L,J,G
+   3,R,J
+   5,L,J
+   1,L,K,G
+   5,L
+   7,L,K
+## Alternative strat if you catch the next cycle. Would save ~138f
+#  22,L,D
+#   1,L
+#   2
+#   1,D
+#   8,J
+#   3
+#   4,L
+#  10,L,X
+#  10,L,J
+#  14,L,U,X
+#  12,L,J,G
+#  11,L,K,G
+#  40
+
+  23,L,D
+   3
+  14,J
+   1,L,J
+   6,L
+   1
+  14,L,Z
+  16,L,J
+  14,L,U,X
   12,J,G
-  11,K,G
+  12,K,G
    2,J,G
   40
 
@@ -120,9 +136,8 @@ console load FLCC/1-Lobby/WOOMII_dustbowl
   20,R,U,X
   17,R,C
   17,R,X
-#spiner cyclke
-   1
-#
+#spiner cycle
+   0
   30,R,U,C
    8,D,X
 repeat 16
@@ -171,7 +186,6 @@ endrepeat
    6,R,J
   15,D,X
   34,D
-  
   13,R,D,X
    2,L,J
   15,R,D,X
@@ -195,39 +209,47 @@ endrepeat
 #lvl_r4
    8,R,D
    8,D
-  33,L,Z
-  25,D,X
+  33,L,X
+  25,D,C
    2
-  90,R,Z
-   1
+  92,R,X
   15,R,U,Z
-   3,R,J
-  10,K,G
-  10,L,J
-  10,L
-   2,L,J
-  15,R,K
-  15,R,Z
-  33,D
+  11,K,G
+   1,L,J
+   9,L,K
+   9,L
+   3,L,J
+  14,R,K
+  15,R,X
+  32,D
+   6,L
+   2
+   1,L
+  15,U,X
    8,L
-  15,R,U,X
-  12,J,G
-  12,K,G
-  23,L,J
-   7,K,G
-   8,L,U,G
+  10,J,G
+   1,R,J
+   1,L,J
+   1,L,K,G
+   1,R,K
+  16,L,K
+   7,J,G
+   7,L
   10,L,D,X
-  21,R,J
-  33,D,X
+  11,R,J
+   1,R
+   1,R,K,G
+   6,R
+  15,D,X
+  20,D
   23,R,C
   40
 
 #lvl_r5
   63,R
-  12,R,U,Z
-   2,L,J,G
-   2,L,K
-  10,L,J,G
+  14,R,U,Z
+   3,L,K
+   9,L,J,G
   31,L,X
    5
   23,L,C
@@ -265,75 +287,77 @@ endrepeat
   40
 
 #lvl_r6
-  10,L,D
-  22,L,J
+   6,L,D
+  24,L,D,J
   15,D,X
    1,R,J
-  12,R
+   8,R
   12,L,D
-  12,D
-  15,R,X
-  12,R,J
+   7,R,D
+   3,R
+  18,R,X
+   5,R
   15,R,U,Z
-  11,R,J
-   8,K,G
-   7,R,U,G
-  62,D
-   4,L,J
-   2,L
+  11,R
+   6,K,G
+   7,R,G
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+   4,D
+   3,L,J
+   1,J
+   2
   15,U,Z
    1,J
   28,R,J
-   4,K,G
+   3,K,G
+   1,L,K
    1,J
   24,R,J
-  24,U,G
-  14,R,J,G
-  12,K,G
-   5,R,U,G
-  10,R,J,G
-  11,R
-  13,R,J
+   9,R,K,G
+  12,R,J,G
+   1,R,K,G
+   4,L,K
+   7,R,K
+  11,R,J,G
+  10,R
+   1,R,J
+   5,R
+   1,R,J
+   5,R,K,G
   10,R,D,X
    5,L,J
   15,L,D,X
-  25,L,J
-  48,R,U,X
-  10,R,Z
-  22,R,J
-  14,L,D,X
-   6,L,J
-  18,U,X
-   1,J
-  26,R,J
-   1,K
-  19,R,K
-  11,J
+   1,L,J
+  13,L
+  14,L,U,X
+  50,R,U,C
+   9,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,L,J
+   7,L
+   4,L,D,J
+  13,U,X
+  29,R,J
+   5,R,K,G
+   3,J
+  12,R,K,G
+   2,J
+  12,R,K,G
   40
 
 #lvl_endroom
   11,L,J
   41,D
   15,L,U,X
-  94,U,C
- 135,L,X
+ 104,U,C
+ 125,D,X
 
-ChapterTime: 1:08.017(4001)
-#1:10.516(4148)
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
+ChapterTime: 1:06.963(3939)
