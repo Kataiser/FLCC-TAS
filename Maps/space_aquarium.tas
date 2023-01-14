@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1242
+RecordCount: 1832
 
 console load FLCC/1-Lobby/MAXBOI_aaaline
    1
@@ -14,58 +14,51 @@ AnalogMode, Precise
 
 #lvl_a-00
    4,R,U
-Repeat 4
+Repeat 5
    1,R,J
    1,R,K
 Endrepeat
-   2,R,K
-   1,R
-   5,R,K
-   5,R
-   1,R,J
-   3,R
-   1,R,K,G
    8,R
+   3,R,J
+   1,R,K,G
+   6,R
   40
 
 #lvl_a-01
-   4,R
-   1,R,J
-   1,R
-  24,D
-   2,R,D
-  48,R
-   1,G
-  11,K,G
-   1,L,K
-   1,J
-  11,L,J
-   6,L,K,G
-   3,J
-   1,R,J
-   4,R
-   1,R,K,G
+  14,L,D
+  13,R,D
+  41,R
+  10,J,G
+   2,L,J
+  12,L,K
+   6,J,G
+   2,R,J
+   6,R,K
    1,R,J,G
-  10,R
-   1,R,J
-   2,R
+   1,R,K,G
+  13,R
   40
 
 #lvl_a-02
+   1,R,J
+  14,R
+   1,R,J
   12,R
-   4,R,J
-  69,R
-  12
-  48,R
-   1,R,G
-   8,L,J,G
-   1,L
-  26,L,J
-  67,R,J
-   2
-  22,R,D
-  41,R
-   1,R,K
+  68,R
+  51,R,G
+   1,L,J
+  11,L,K
+  21,L,D
+  46,R,J
+   5,R
+   8,R,D
+   4
+   8,R
+  11,R,J
+   6,R,D
+   9
+  35,R
+   1,R,J
   10,R
   40
 
@@ -85,230 +78,146 @@ Endrepeat
    4
    1,L,K
   10
-   6,R
-  11,R,J
-  13,R
-   9,R,J
-  10,R,D
-  22,R
-  23
-   6
-  10,R,J
-  11
-   7,L,K
-  10,L,J
-   1,L
-   4,L,J
-   1,R
-   1,R,J,G
-   2,L,J
-   6,R,J
-   2,R
-   1,R,K,G
-   1,R,J,G
-  10,R
+   7
+  12,L
+  35,L,J
+   3,L
+   1,K
+   2,R,K
+  21,L,K
+   3,L,J,G
+   7,L
+   2
+  55,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-   7,R
+   4,R,J
   40
 
 #lvl_a-04
-   7,R
-  11,R,J
-   8,R
-   1,R
-   1,R,K
-   1,R,J,G
-   3,R,K,G
-   3,R
-   1,R,J,G
-   3,R
-   1,R,K,G
+   6,R,J
    9,R
-   1,J
-   4,R
-   5
-  19,L,J
+   2,R,J
+   5,R,K,G
+   4,R,J,G
+   5,R,K,G
+   1,L
+  31,L,K
   43,R,D
    7,D
    2,R,D
    1,D
-  10,R,D
-   7,R
-   1,R,J,G
-  40,R,U,G
-  50,L,J
-  41,R,J
-   8,R
-   1,K,G
-  20,R
-   1,R,K
-   7
-   7,R
-   1,R,J
-  14,R
-   1,R,K
-   1,R,J,G
-   6,R,K,G
-   1,R,J,G
-   6,R
-   5,R,D
-Repeat 38
-   1,R
-   1,D
-Endrepeat
-
-
-#  50,F,90
-#   2,F,55
-#Repeat 2
-#   2,F,90
-#   2,F,0
-#Endrepeat
-#   4,F,55
-#Repeat 35
-#   1,F,90
-#   1,F,0
-#Endrepeat
-
-  22,F,90
-  42,F,0
-  52,F,172
-   5,F,110
-Repeat 7
-   1,R
-   1,D
-Endrepeat
-   9,F,58
-Repeat 43
-   1,R
-   1,U
-Endrepeat
-  13,R
-   1,D
-   1,R
-   2,D
-   1,R,D
-   1,R,J
-  14,R
-   1,R,J
+   8,R,D
    9,R
+   1,R,G
+   3,J,G
+   7
+  22,U,G
+   1,L,J
+  43,L,J
+  53,R,J
+   1,K,G
+   1
+  20,R
+  14,R
+   1,R,J
+  14,R
+   1,R,K
+   1,R,J,G
+   5,R,K,G
+   2,R,J,G
+   5,R
+  21,R,D
+Repeat 13
+   1,R
+   1,D
+Endrepeat
+   5,R
+  19,F,91
+  15,F,90
+  36,F,1
+   5,F,145
+   2,F,180
+   1,F,89
+  40,F,179
+  19,F,86
+   1,F,78
+   1,F,70
+   1,F,62
+   9,F,59
+   4,F,90
+   1,F,82
+   1,F,74
+   1,F,66
+  62,F,60
+  19,F,90
+   1,R,J
+  14,R
+   1,R,J
+   7,R
   40
 
 #lvl_a-05
-   5,R
+   7,R
    1,R,J
   14,R
    1,R,J
-  22,R
-   3,F,120
-Repeat 23
+  25,R,D
+Repeat 26
    1,R
    1,D
 Endrepeat
-  31,F,90
-   3,R,U
-  41,F,90
-Repeat 8
-   1,R,D
-   1,R
-Endrepeat
-   5,F,100
-Repeat 10
-   1,R
-   1,D
-Endrepeat
-  80,F,90
-   3,F,65
-Repeat 3
-   1,R
-   1,U
-Endrepeat
-  11
-  15,R
-   6,R
-   4
-   2,R
-   1
-   1,R,J,G
-   4,R,K,G
-   5,R
-   1,R,J,G
-   9,R
+   9,F,91
+  21,F,90
+   1,F,89
+  53,F,145
+ 120,F,89
+  37,F,45
+   7,R
   40
 
 #lvl_a-06
    3,R
    1,R,J
-  18,R
-   1,R,J
   21,R,D
-   6,R,J
-  19,R,D
- 142,F,180
-  13,F,195
-  41,F,270
-  28,F,105
-  40,F,180
-   3,F,135
-Repeat 11
-   1,R
-   1,D
-Endrepeat
-  15,F,67
-Repeat 30
-   1,R
-   1,U
-Endrepeat
-  14,F,65
-  72,F,14.5
-   2,F,45
-Repeat 3
-   1,R
-   1,U
-Endrepeat
-  30,R
-   3,R,D
-Repeat 6
-   1,R
-   1,D
-Endrepeat
- 110,F,179.48
-  31,F,186
-  44,L
-   1,F,230
-   8,F,210
-Repeat 10
-   1,L
-   1,D
-Endrepeat
-   8,F,180
-   9,F,135
-  80,F,90
- 100,F,180
-  32,F,160
-  19,R,D
-  35,R
+   1,R,J
+  14,R,D
+  15,D
+  19,D
+  45,D
+  81,F,181
+  36,F,270
+  28,F,108
+   4,F,135
+  62,F,148
+  73,F,60
+  67,F,14
+  11,F,45
+  26,F,90
+  16,F,125
+  18,F,179
+  45,F,180
+  75,F,181
+  43,L
+  30,F,218
+   9,F,180
+   5,F,135
+  76,F,90
+ 136,F,174
+  54,R,D
   40
 
 #lvl_a-07
-   7,R
-   7,D
-  21,R,D
-  20,F,160
-   6,F,120
-Repeat 19
-   1,D
-   1,R
-Endrepeat
-  30,F,90
-  13,F,45
+   8,R,D
+   5,R
+  11
+  34,F,145
+  37,F,127
+  35,F,91
+   8,F,90
   44,R
   15,R,D
-   1,R,G
   10,R,J,G
   28,R
   13,R,D
@@ -382,7 +291,6 @@ Endrepeat
   48,R,D
   40
 
-
 #lvl_a-09
    8,R
    6,R,Z
@@ -400,5 +308,5 @@ Endrepeat
   15,R,U,X
   50,R
   15,L,X
-  88
-ChapterTime: 1:23.895(4935)
+  89
+ChapterTime: 1:20.648(4744)
