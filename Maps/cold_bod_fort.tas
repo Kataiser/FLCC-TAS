@@ -1,4 +1,4 @@
-RecordCount: 2
+RecordCount: 306
 
 #Made by Hyperlife and vitellary
 console load FLCC/1-Lobby/OKNANO_oknano2 
@@ -8,8 +8,7 @@ console load FLCC/1-Lobby/OKNANO_oknano2
  190
 
 #lvl_Nanoda-1
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
    8,R,D,X
    3,R,J,G
@@ -37,27 +36,32 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    3,R,K
   11,R,J
   17,R
-  13,D
+  14,D
    4,R
-  27,R,J
-  15,U,X
-   4,L
    1,R,J
-  22,R,D
-   8,L,D
-   5,D
-   3,R,D
-   1,D
-   5,R,J
-   5,R
-   4,R,J
-  26,R,D
-   3,R
-  15,R,X
-  15,U,C
+  10,R
+  10,L,Z
+   3,R,J
+   7,J
+  15,U,X
+   5,L
+   1,R,J
+   1,R
+  12,R,J
   10,R,D
-   4,D,X
-   6,R,X
+  13,D
+   1,L,D
+   2,R,J
+   5,R
+  18,R,J
+   2,R,D
+   8,D
+   4
+  15,R,X
+  15,R,U,C
+   7,R
+   2
+  11,R,Z
    5,R,J
    3,R,K,G
    7,R,J,G
@@ -74,8 +78,7 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    8,R,D
    1,R,J
   12,R,D
-   4,D,X
-   3,R,U,X
+   7,R,U,Z
    1,L,J,G
   19,R,J
    1,K
@@ -91,8 +94,7 @@ console load FLCC/1-Lobby/OKNANO_oknano2
   16,L,J
   10,R,K
   21,R
-   4,D,X
-   9,R,X
+  13,R,Z
    3,R,J
   13,R,D,X
   40
@@ -105,15 +107,16 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    7,R
   20,R,J
   12,U,X
-  10,R,J
-   4,J
-  17,R,K
-  12,L,J
-  15,L,D
-   8,R,D
+   9,R,J
+   6,J
+  16,R,K
   11,L,J
-  28,R,K
-  20,R,X
+  16,L,D
+   7,R,D
+  11,L,J
+  23,R,K
+   4,R
+  21,R,X
   12,U,C
    1,R,J
   18,R,D
@@ -127,29 +130,33 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    1,R,D
    3,D
    4,R
-   8,R,J
-   9,R
-   3,R,J
-   9,R,D
-   4,D,X
-  20,R,X
-  18,L,J
+   4,R,J
+   4,R
+  11,R,J
+   5,R
+  25,R,Z
+  16,L,J
    1,K
-  19,L,K
-  10,R,J
-  19,R
-   4,D,X
-  10,R,X
+  20,L,K
+   8,R,J
+   1,R
+  20,R,J
+   6,R,Z
+   1,R,J
+   6,R
   40
 
 #lvl_Nanoda-5
+   1,R
    1,R,J
-   7,R,D,X
+   6,R,D,X
    1,R,J
    7,R
-  16,R,J
+  14,R,J
+   3,J
   15,U,X
-   5,R
+   2
+   2,R
   36,R,J
    1,K
   25,R,K
@@ -180,11 +187,9 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    1,R
    1,R,J
    7,R
-   4,D,X
-  11,R,U,X
+  15,R,U,Z
    9,R
-   4,D,X
-  10,R,X
+  14,R,Z
    1,R,J
   12,R,D,X
   40
@@ -204,8 +209,7 @@ console load FLCC/1-Lobby/OKNANO_oknano2
   18,R,K
    7,R
    2
-   4,D,X
-  11,R,X
+  15,R,Z
    1,L
   16,R,J
   11,L,K
@@ -246,31 +250,25 @@ console load FLCC/1-Lobby/OKNANO_oknano2
    1,R,J
   15,R,D,X
   15,R,D,C
-   4,D,X
-   2,R,X
+   6,R,Z
    1,R,J
-   9,R,U
-   1,L,U
+   8,R,U
   15,R,U,X
+  15,R,U,C
+  10,U,X
+   8,J
   15,U,C
-  15,U,X
-   9,L
-   1,J
-  24,L,J
-   1,K
-  19,L,K
-   1,K
-  18,R,J
-   9,R
-   1,R,K,G
-   7,R
-  11,R,X
-  10,L,J
-  14,L,U,X
-  68,L,J,G
+   5,L
+  14,R,J
+   1,R
+  12,R,J
+  12,R,X
+  11,L,J
+  13,L,U,X
+  67,L,J,G
    4,R,D,X
    1,R,J
   55,R
-  27,D
+  28,D
 
-ChapterTime: 0:41.021(2413)
+ChapterTime: 0:40.103(2359)
