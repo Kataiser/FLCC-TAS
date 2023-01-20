@@ -1,5 +1,3 @@
-RecordCount: 2
-
 #By vitellary, masrock9
 console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    1
@@ -28,8 +26,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    6,R,J
   12,R,K,G
    7,R
-   4,D,X
-   2,R,U,X
+   6,R,U,Z
    8,R,J,G
    5,J,G
   15,U,X
@@ -66,8 +63,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
   26,L,D
   13,R,D
    3,R
-   4,D,X
-   1,L,X
+   5,L,Z
   10,R,J
    7,R
    2,R,J
@@ -82,8 +78,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
   21,L,J
    5,R,J
    2,K,G
-  15,U,X
-   5,U,C
+  16,U,X
   40
 
 #lvl_3
@@ -130,8 +125,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
   15,U,X
    4,R
    9,J,G
-   4,D,X
-   2,R,X
+   6,R,Z
   12,R,J,G
    5,R
    2,R,J
@@ -150,8 +144,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    6,R,U,J
    2,L,U,J
   18,U,X
-   4,D,C
-  10,L,C
+  14,L,Z
    1,L,J
   14,L,D,X
    3,L,J,G
@@ -173,21 +166,20 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
   40
 
 #lvl_5
-   6,R
+   4,R
    1
+   1,R
+   1,R,J,G
    1,R,K,G
-   4,R,J,G
-   2,R
-   4,D,X
-   1,R,X
+   3,R,J,G
+   5,R,Z
    1,R,J
    9,R
    5,D,X
-  13,R
-  60,D
+  14,R
+  59,D
    4,R,J
-   4,D,X
-   2,R,X
+   6,R,Z
    4,R,K,G
   13,R
    2,R,J
@@ -196,8 +188,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    3,R,J
   18,U,X
    5,L
-   4,D,X
-  11,L,U,X
+  15,L,U,Z
   27,L
    1,L,J
   10,L,D
@@ -209,32 +200,27 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    1,L,K
    1,L,J
    2,L,K
-   4,D,X
-  10,L,U,X
+  14,L,U,Z
    1,J,G
   17,D
   18,L,D
    8,R,D
   15,D,X
-   4,D,C
-  11,R,C
-   4,D,X
-  11,R,X
+  15,R,Z
+  15,R,V
   12,R,U,C
    5,R,J
    9,U,X
-  12,R,J
+  11,R,J
   15,U,X
-  11,U,C
-   9,R,J
-   9,R,K,G
-   1,R
-   3,R,J,G
-   7,R
+  12,U,C
+  14,R,J
+  11,R
    4,R,X
   11,R,J
-   4,R
-   3,L
+   5,R
+   2,L
+   1,R
    2,L,J
   11,L,K
   12,U,X
@@ -290,8 +276,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    2,L,J
    8,K,G
    3,L,K
-   4,D,X
-  10,L,X
+  14,L,Z
    6,L,J
   19,L,D,X
   18,D,C
@@ -300,9 +285,7 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    5,R,U
   12,U
    8
-   4,D,X
-  11,U,X
-   1,R,D
+  16,U,Z
    1,R,K
    1,R,J
    1,R,K
@@ -312,50 +295,45 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
    1,J
   10,L,J
   15,L,D
-  20,L,G
+  15,G
+   5,U,G
    1,K,G
+   1,J,G
+   4,K,G
    1,L,J,G
-   1,L,K,G
-   4,R,J
-   1,L,K,G
-   7,R,U,K
-   7,L,U,K
+  13,L,J
   15,U,X
-  15,U,C
+  16,U,C
    2,R,J
    2,L
   15,U,X
-   4,D,C
-   9,L,U,C
+  13,L,U,Z
    7,L,K,G
   15,L,D,X
    1,L,J
    1,L,K
    1,L,J
-   4,D,X
-  12,L,X
-   2,L,D
+  18,L,Z
    1,L,J
    1,L,K
    1,L,J
    1,L,K
    1,L,J
-   4,D,X
-  12,L,X
+  16,L,Z
   14,U,C
    2,L,J
    6,R,U,X
    1,R,J,G
    1,R,K
-   2,R,J
-   6,R
    1,R,J
-  10
    7,R
+   1
+  15,R
    8,R,U,X
-   3,R,J,G
-   9,R
-   5,R,J
+   2,R,J,G
+   7,R
+   3,R,J
+   4,R
    5,R,D,X
   23,R
   52,U
@@ -375,6 +353,4 @@ console load FLCC/1-Lobby/WIZARDOFWIT_SourceOfWater
   15,U,X
  135,D
 
-ChapterTime: 0:45.968(2704)
-
-#45.968 :)
+ChapterTime: 0:45.781(2693)
