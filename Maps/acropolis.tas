@@ -73,22 +73,23 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
    2,L
    3,R
    4,R,J
-   6,R,K
+   2,K
+   4,R,K
    1,R,J,G
-   4,R,K,G
+   2,R,K,G
    5,R
    3,R,K
-  13,R
-   4,R,J
-   2,R
-   1,R,J
+  11,R
+   2,R,J
+   4,R
+   1,R
    4,L
-   9,R,D
+   8,R
    1,R,J,G
    1,R,K,G
-   5,R
-   2,R,J
-   8,R
+   4,R
+   4,R,J
+   7,R
    1,R,J
    5,R
    1,R,J
@@ -123,18 +124,25 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
    1
    5,R
    3,R,J
-   3,R
+   1,R
    4
-   2,R
+   4,R
    4,R,J,G
    1,R
-  14,R,J
-   3,R
+  12,R,J
+   4,R
    1,R,K
    3,R
    1,L
    1,R,J,G
-  20,R
+   4,R
+   1
+   1,R
+   1,R
+   2
+   1,R,J
+   3
+   7,R
    8,R,J
    1,R,K
   11,R
@@ -177,25 +185,25 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
   18,R
    2,R,J
   12,R
-   2,R,J,G
-  13,R
-   1,R,J
-   4,R
    1,R,J,G
-   3,R
-   3,R,K,G
-   3,R
-   5,R,J
-   9,L,D
+   4,R,K,G
+  11,R
+   4,R,J,G
+   1,R,K,G
+   5,R
+   3,R,J
+   2,R
+   7,L
+
 
    1,S
    1,D,J
   69,O
-
    5,R
    1,R,J
-  15,R
-  19,L,D
+  14,R
+  17,D
+   3,L,D
   40
 
 
@@ -357,20 +365,18 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
    5,R
    3,R,K
    5,J
-   3,K
-   1,R,J,G
-   6,J
-   2,R,J
+   9,R,K
+   4,R
    1,K,G
    1,R
    2,R
-  16,L,D
-  17,D
+  14,L,D
+  19,D
    2,R,D
-   7,D
+   6,D
    1,R,D
    3,R
-   2
+   3
    5,J,G
    1,L,J
    5,J
@@ -386,17 +392,21 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
   18,R
    2,R,J
    6,R
-   1,R,J
-   6,R
+   7,R
    7,L,J
-   8,R,K
+   9,R,K
+   3,R
+   1,R,J,G
+   1,R,K,G
+  20,R
+   3
+   7,R
+   1,R,K,G
+  13,R
+   1,R,J
+  10,R
+   4
    4,R
-   2,R,J,G
-  30,R
-   1,R,J
-  14,R
-   1,R,J
-  18,R
    3,R,J
   40
 
@@ -589,4 +599,4 @@ console load FLCC/1-Lobby/DRIVANKO_Acropolis
    8,L,J
  135,L,D
 
-ChapterTime: 0:57.443(3379)
+ChapterTime: 0:57.239(3367)
