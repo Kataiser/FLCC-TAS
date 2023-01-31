@@ -1,5 +1,5 @@
 #by EllaTAS
-RecordCount: 382
+RecordCount: 860
 
 console load FLCC/1-Lobby/KUNOGI_DoubleTeam
    1
@@ -68,9 +68,188 @@ console load FLCC/1-Lobby/KUNOGI_DoubleTeam
   60,R,X
   41
   42,R,D
-  41,R,X
-   1,R,D
+  39,R,X
+   3,R,D
    4,X
    5,R,J
-  90,R,K,G
+   1,R,K,G
+   1
+   4,R,K,G
+   7,R
+   4,Z
+   1,R,J
+   4,R
+  40
 
+#lvl_Kunogi-2
+   3,R
+  36,R,J
+  19,R,X
+  31
+  26,R
+   7,R,J,G
+   1,R
+  10,R,J
+   6,L,U,X
+  75
+#(left to right)
+#251, 35, 413
+
+
+# 324513 cycles dont work
+#   3
+#  87,D,X
+#   7,L,D,C
+#   1,L,J,G
+#  62,L,D
+#  15,R,X
+#   8,R
+#   3,D
+#   4,R
+#   1,R,J,G
+#  12,R
+#   1,R,J
+#  29,R,D
+#  79
+#  10
+#  20,L,D
+#   7,L,Z
+#   5,L,J,G
+#   1,L
+#  24,L,J
+#  41
+#  15,R,D,X
+#  15,D
+#  20,R,D
+#  41
+#  70,R
+#  15,R,U,X
+# 200,R
+
+
+#245135 
+  11,L
+  15,D,X
+  78,L
+   4,R
+  13,R,Z
+   1,R,J,G
+  60,R,D
+  53
+  32,L,D
+   6,L,Z
+  10,L,J,G
+   1,L
+  15,L,J
+  41
+  15,R,D,X
+  15,D
+   4
+  10,R
+  13
+  60,R
+  17,R,X
+  40,R
+  40,R,D,X
+  19,R
+  41
+   8,R
+  54,R,X
+  41
+   8,R
+  54,R,X
+  41
+   8,R
+  55,R,X
+   5,R,D
+   5,L,X
+  11,R,J
+   7,R
+   1,R,J
+   5,R,D,X
+  40
+
+
+#lvl_Kunogi-3
+   8,R,D,X
+  33,R,J
+  15,R,U,X
+#CW from top, 8 middle
+#35087, 53681, 17285, 71483
+
+#315702148573681
+  67,R
+  15,R,U,X
+  37
+  15,R,D,X
+  14,R,D
+  38
+  12,U,X
+  37
+  28,L,D,X
+  10,L
+  13,L,D
+  38
+  13,U,X
+  37
+  15,R,X
+   9
+  34
+   3,R
+  15,D,X
+  27,R,D
+   1,R,J
+   1,L,K,G
+  11,R,K
+  71
+  15,D,X
+  34,L,D
+  79
+  15,L,D,X
+  15,D
+  38
+  12,U,X
+  37
+  15,R,X
+  35,R,D
+  14,D
+  54
+   9,L,Z
+   1,L,J,G
+   9,L
+  17,L,J
+  37
+  15,R,D,X
+  13,R
+  37
+  14,R,X
+  37
+  15,R,X
+  70,R
+  38
+  48,R,X
+  38
+  48,R,X
+  41
+   8,R
+  51,R,X
+  41
+   9,R
+  61,R,X
+  10,R,J
+   5,R,X
+   8,R,J
+   2,R
+  40
+
+#lvl_Kunogi-end
+   9,R,X
+   2,R,J
+   8,R
+  23,R,J
+  21,U,X
+
+#end
+ 135,D
+
+ChapterTime: 1:10.567(4151)
