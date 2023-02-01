@@ -227,10 +227,14 @@ console load FLCC/1-Lobby/MACARONIBOI_UltraEasy
    2,L
   15
    2,L
-  27,R,G
-   9,R,J,G
-   8,R,K,G
-  29,R,U,X
- 113
+   6,R
+   6,G
+   8,U,G
+   8,J
+  27,R,U,X
+  72,D
+   1,L,Z
+   1,L,J
+  48,L
 
-ChapterTime: 0:41.939(2467)
+ChapterTime: 0:41.786(2458)
