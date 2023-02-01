@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1627
+RecordCount: 1925
 
 console load FLCC/1-Lobby/WOOMII_dustbowl
    1
@@ -56,30 +56,23 @@ console load FLCC/1-Lobby/WOOMII_dustbowl
    5,R
    1,R,J
    9,R
-   1,R,K
-   9,R
-  15,R,Z
-## Jumping from the ledge at 418f (~11f faster than currently) lets you catch the next cycle
-#Set, Player.Speed, 0, 0
-#Set, Player.Position, 604.8, 8
-#  41
-  11
-   2,R,D
-   2,D
-   3,R,D
-   1,J,G
-   1,L,J
-   1,R,J
-   9,R,K,G
-   2,K
-   6,R,K
-   7,R,J,G
-   5
+   2,R,K
    2,R
+  15,R,Z
+  15,R
    2
- 105
-   6,L,J
-   6,J
+   1,J,G
+   1,J,L
+   1,K
+  16,R,J,G
+   2,K,G
+   2,R
+   2,J,G
+   6,R
+   1,L
+   7,J
+   2,L,J
+   3,J
   15,U,X
   19,L,J
   10,K,G
@@ -92,36 +85,13 @@ console load FLCC/1-Lobby/WOOMII_dustbowl
    1,L,J,G
    3,R,J
    5,L,J
-   1,L,K,G
-   5,L
-   7,L,K
-## Alternative strat if you catch the next cycle. Would save ~138f
-#  22,L,D
-#   1,L
-#   2
-#   1,D
-#   8,J
-#   3
-#   4,L
-#  10,L,X
-#  10,L,J
-#  14,L,U,X
-#  12,L,J,G
-#  11,L,K,G
-#  40
-
-  23,L,D
-   3
-  14,J
-   1,L,J
-   6,L
-   1
-  14,L,Z
-  16,L,J
+   9,L,K,G
+  35,L
+  11,L,X
+  11,L,J
   14,L,U,X
   12,J,G
-  12,K,G
-   2,J,G
+  10,K,G
   40
 
 #lvl_r2
@@ -137,14 +107,13 @@ console load FLCC/1-Lobby/WOOMII_dustbowl
   17,R,C
   17,R,X
 #spiner cycle
-   0
+   1
   30,R,U,C
-   8,D,X
-repeat 16
-   1,S
-  10,J
-   2,R,D
-endrepeat
+  8,D,X
+StunPause
+  7,D,X
+  25,R,D
+EndStunPause
   40
 
 #lvl_r3
@@ -360,4 +329,4 @@ endrepeat
  104,U,C
  125,D,X
 
-ChapterTime: 1:06.963(3939)
+ChapterTime: 1:04.515(3795)
