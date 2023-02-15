@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1682
+RecordCount: 1890
 
 console load FLCC/1-Lobby/KUNOGI_StarDumb
    1
@@ -220,8 +220,10 @@ console load FLCC/1-Lobby/KUNOGI_StarDumb
 AnalogMode Percice
   37,F,354.327
   18,F,0.806
-  65,F,359.6
-  11,L
+  32,F,356.15
+  32,F,359.29
+   1,F,357.72,0.35
+   6,L
   15,U,X
    2,L
    5,R
@@ -231,7 +233,7 @@ AnalogMode Percice
   14,L,U,X
   27,R,U
   25,F,21.287
-  92,F,0.5
+  92,F,0.51
   15,R,U,X
   11,R
   15,R,U,X
@@ -270,7 +272,7 @@ AnalogMode Percice
   15,U,X
   35,L
   15,U,X
-     3,L
+   3,L
    3,R
    6,L,U,X
    9,L
@@ -318,4 +320,4 @@ AnalogMode Percice
   10,U,X
  138,R
 
-ChapterTime: 0:58.021(3413)
+ChapterTime: 0:57.936(3408)
