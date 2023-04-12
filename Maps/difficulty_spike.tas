@@ -25,11 +25,14 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    3,R,J
    1,R
    1,R,J,G
-   5,R,K,G
-   6,R,X
    1,R,K,G
-   4,R,J,G
-  14,R
+   4,K
+   7,R,X
+   1,R,J,G
+   2,R,K,G
+   2
+   3,R
+  11,R,J
   12,R,Z
   40
 
@@ -40,10 +43,11 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    2,R
    1,R,J
    3,R,K,G
-  21,R,J,G
-  16,R
+  24,R,J,G
+   1
+  13,R
    1,R,J,G
-  15,R,K,G
+  16,R,K,G
   15,R,U,Z
    4,R,J
   11,R,K
@@ -51,13 +55,17 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   13,R,Z
    2,R,J
   17,R,D,X
-  11,R,J
-  13,R
+  12,R,J
+  12,R
+   1
   14,R,X
    1,R,J,G
-   4,R,K,G
-  18,R,D
-  21,D
+   3,R,K,G
+   9,R
+   1,R,J
+  10,R,D
+  12,D
+   8,R,D
   11,L,D,X
   42,R,J
   15,U,Z
@@ -72,16 +80,16 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   40
 
 #lvl_a02
-  13,R,D,X
+  14,R,D,X
    7,R,J
+   6,R
+   1
    5,R
-   8,R,J
-   1,R,K,G
-   5,R,J,G
+   1,R,J,G
+   5,R,K,G
    5,R
-   1,R,J
-   9,R
-   3,L
+   2,R,J
+  11,R
   14,R,X
   41,R,J,G
   15,R,U,Z
@@ -134,8 +142,9 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   16,R,D,X
   11,R,J
    5,R
-   1,R,J
-   7,R
+   3,R,J
+   4,R
+   2
   14,R,X
    1,R,J,G
    1,R,K,G
@@ -143,12 +152,12 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   15,U,X
    4
   33,L,J
-   6,J
-   4,K,G
+   5,J
+   3,K,G
    1,R,K
-  30,R,J
+  31,R,J
    2,R
-  24,R,K
+  24,R,J
    6,R
   14,R,D,X
   10,R,J
@@ -162,7 +171,7 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    7,R
    8,R,J
    5,R
-   1,R,J
+   2,R,J
    7,R
   14,R,X
   12,R,K,G
@@ -172,11 +181,11 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   12,R,J,G
    9,R,K,G
    7,R
-   8,L,D,X
+   8,L,Z
    1,R,J
-   8,R
+   9,R
    7,R,J
-   2,L,J
+   2,J
    3,R,J
   15,R,X
   40,L,D
@@ -216,7 +225,7 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    1,R
   17,R,D,X
   29,R,J
-   1,L,J
+   1,J
   14,R,X
    1,R,J,G
    1,R,K,G
@@ -229,10 +238,10 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    1,L
   10,L,J
    8,J
-repeat 4
+Repeat 4
    1,K
    1,J
-endrepeat
+EndRepeat
    1,R,K,G
    1,R,J,G
    7,R
@@ -326,4 +335,4 @@ endrepeat
   27,L,U,X
  122,L,D
 
-ChapterTime: 0:49.215(2895)
+ChapterTime: 0:49.317(2901)
