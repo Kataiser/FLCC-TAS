@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 911
+RecordCount: 1107
 
 console load FLCC/1-Lobby/WOOMII_forsakencliffs
    1
@@ -35,7 +35,9 @@ console load FLCC/1-Lobby/WOOMII_forsakencliffs
   15,U,X
   18,L,J
    2,R,K,G
-   5,L,K
+   2,L,K
+   2,R,J,G
+   1,K
   40
 
 #lvl_r1
@@ -43,23 +45,24 @@ console load FLCC/1-Lobby/WOOMII_forsakencliffs
    1,R,K,G
    3,R
    6,R,J
-  11,R,Z
+  10,R,Z
    1,R,J
    6,R
   18,R,J
-# This feels suboptimal
-# the landing at the end
   35,R,C
   15,U,X
   18,U,C
   15,U,X
   15,U,C
-  17,L
-  10,L,Z
-  16,L,J
-  15,U,X
-   1,R,J,G
-   3,L,J
+   7,L
+   7
+   2,L
+   1
+   4,Z
+   1,L,J
+   7,L
+  15,L,J
+  13,U,X
   43
 
 #lvl_r2
@@ -74,7 +77,7 @@ console load FLCC/1-Lobby/WOOMII_forsakencliffs
   13,R,D,X
    4,R,J
   14,R,X
-  31,U,C
+  30,U,C
   11,R,U,X
   40
 
@@ -96,7 +99,9 @@ console load FLCC/1-Lobby/WOOMII_forsakencliffs
   13,R
   15,R,Z
   65,U,X
-   6,R,U,C
+   5,R,U,C
+   3,R,J,G
+   1,K
   40
 
 #lvl_r4
@@ -111,16 +116,15 @@ console load FLCC/1-Lobby/WOOMII_forsakencliffs
   18,R
   15,L
    7,L
-   1
+   1,L
    3,L
-  13,R
-   2,R
+  12,R
+   3,R
   18,L,J
-  10,L
+   2
+   9,L
    1
-   1
-   1,D
-   1,D
+   2,D
    7,L,D
    1,L,K,G
   21,L,J,G
@@ -193,9 +197,9 @@ EndRepeat
    2,R,K,G
   12,R,U,X
 # Spinner Cycle
-   1
+   0
 ### Bubble
- 136,U,C
+ 135,U,C
   12,L,U,X
   22,R,J
   15,R,U,X
@@ -247,7 +251,7 @@ EndRepeat
    2,L,D
    7,L,D
   13,L,D,X
-  79
+  80
    6,U,X
   15,R,U,C
   11,U,X
@@ -259,15 +263,15 @@ EndRepeat
   10,R,X
    5,R,J
    5,R,U,X
-  53
+  54
    8,U,X
   36,R,C
   14,L,D,X
    1,L,J
-   2,L,K,G
+   3,L,K,G
    1,S
   10,J
-   9,L,J
+   8,L,J
   66,U,C
    5,R,U,X
   43
@@ -284,7 +288,7 @@ EndRepeat
  103,R,C
   25,R,X
   14,R,C
- 177
+ 178
 Repeat, 5
    1,S
   10,O
@@ -323,7 +327,8 @@ EndRepeat
    1,R
    8,R,J
   15,R,X
-   9,R
+   2
+   6,R
   10,R,X
    1,R,J
    4,L,J
@@ -333,10 +338,10 @@ EndRepeat
    2,R,J
   13,R,U,C
  300,R,X
-  40,X
+  40
 
 #lvl_endroom
-  20,R,X
+  20,R
   15,D,C
   10,L,Z
    1,R,J
@@ -365,4 +370,4 @@ Repeat,30
 EndRepeat
    2,L,D
 
-ChapterTime: 1:14.460(4380)
+ChapterTime: 1:14.392(4376)
