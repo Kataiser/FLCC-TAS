@@ -3,7 +3,7 @@
 # Draft by sashabell
 # and Mika
 
-RecordCount: 503
+RecordCount: 664
 
 console load FLCC/1-Lobby/AGENT_Wintry_Night
    1
@@ -40,24 +40,24 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
    2,R,J
    7,R,D,X
    3,R,J,G
-   2,J
-   3,R,J
-   8,R
-   1
    1,J
-   1
+   4,R,J,G
+   8,R
+   1,J
+   2,R
    1,R,J,G
    1,R,K,G
-  18,R
+   3
+  15,R
   13,R,X
    4,R,J,G
    2,J
    3,R,J
    5,R
    2,R,J
-   1,R
+   2,R
    1,R,J
-   5,R
+   4,R
    3,R,J,G
   15,R,D,X
   11,R
@@ -92,17 +92,16 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
    2,R,J
    3,R
   17,R,D,X
-  10,R,J
+  11,R,J
    5,R
-   1,R,J
+   1
    8,R
   14,R,X
    1,R,J,G
-   1,R,K,G
-  23,R
-   1
-   2,D
-   1
+   2,R,K,G
+  23,R,D
+   2,R
+   2,R,D
    1,J,G
    6,R
    5,L
@@ -159,25 +158,24 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
   33,R,J
    4,R
   14,R,Z
-  12,R,J
-   5,R
    1,R,J
-   3,R
-  10,R,U,X
+   1,J
+   9,R,J
+   9,R
+   1
+  11,R,U,X
    1,R,J,G
-  16,R,K,G
+  17,R,K,G
   15,R,D,X
-   1,R
-   5,R,D
-   2,R
-  13,R,D,X
+   7,R
+   2,R,D
+  14,R,D,X
    1,R,J
    6,R
    5,R,J
-  44,R
-   1
-   1,D
+  45,R
    1,R,D
+   1,D
   26,R,X
    9,L,D
    2,L
@@ -200,11 +198,11 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
   40
 
 #lvl_agent007_5
-   1
-   4,R
+   5,R
    1,R,J
-   1,R
-  17,R,D,X
+   1
+  16,R,D,X
+   1,R,D
    4,R,J
    8,R,X
    1,R,J,G
@@ -212,20 +210,23 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
   16,R,J,G
   15,R,D,X
    2,R,J
-   7,R,X
-   1,R,J,G
-  12,R,K,G
-  24,R,D,X
-   3,D
+   8,R,X
+   2,R,J,G
+   8,R,K,G
+   4,R
+  25,R,D,X
+   3,R,D
   40
 
 #lvl_agent007_6
-   2,D
-   1,L,J
-   7,R,J
-   4,J
-   1,R,K,G
-   4,J,G
+   1,R,D
+   1,R,J
+  11,J
+   1,R,J
+   1,K,G
+   1,R,K
+   1,K
+   1,R,K
   13,R,U,X
  135,L,D
-ChapterTime: 0:24.072(1416)
+ChapterTime: 0:24.208(1424)
