@@ -1,7 +1,7 @@
 # FLCCcollab
 # https://gamebanana.com/mods/414315
 
-RecordCount: 1832
+RecordCount: 2000
 
 console load FLCC/1-Lobby/MAXBOI_aaaline
    1
@@ -31,33 +31,36 @@ Endrepeat
   10,J,G
    2,L,J
   12,L,K
-   6,J,G
-   2,R,J
-   6,R,K
+   2,J,G
+   1,R,J
+   1,L,J
+   5,K,G
+   2
+   1,R
+   1
    1,R,J,G
    1,R,K,G
-  13,R
+   9,R
+   1,R,J
+   2,R
   40
 
 #lvl_a-02
-   1,R,J
-  14,R
-   1,R,J
-  12,R
-  68,R
-  51,R,G
+  21,R,J
+ 118,R
+   1,R,G
    1,L,J
   11,L,K
-  21,L,D
-  46,R,J
-   5,R
-   8,R,D
-   4
-   8,R
-  11,R,J
+  19,L,D
    6,R,D
-   9
-  35,R
+  36,R,J
+  15,R,D
+   9,R,J
+  11,R
+   7
+   7,R
+  42,R
+
    1,R,J
   10,R
   40
@@ -212,25 +215,39 @@ Endrepeat
    8,R,D
    5,R
   11
-  34,F,145
-  37,F,127
-  35,F,91
-   8,F,90
-  44,R
-  15,R,D
+   9,R,D
+Repeat 10
+   1,D
+   1,R
+Endrepeat
+   3,D
+Repeat 11
+   1,R
+   1,D
+Endrepeat
+  46,R
+   7,F,60
+  41,R
+  16,R,D
+   2,R
   10,R,J,G
-  28,R
-  13,R,D
-   1,R,J
+  21,R
+  17,R,D
+   1,R
+   1,R,J,G
+   1,R,K,G
+  13,R
+#+3f
+   1,R,D,J
   14,R
-   1,R,J
+   1,R,D,J
   14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
+   1,R,D,J
+  13,R
+   1
+   1,R,D,J
+  13,R
+   1
    1,R,J
    7,R
   40
@@ -309,4 +326,4 @@ Endrepeat
   50,R
   15,L,X
   89
-ChapterTime: 1:20.648(4744)
+ChapterTime: 1:20.325(4725)
