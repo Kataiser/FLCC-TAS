@@ -1,0 +1,13 @@
+console load FLCC/0-Lobbies/1-Lobby 1968 64
+   1
+
+#Start
+  36
+   4,Z
+   1,R,J
+   7,R
+   1,R,J
+   4,R
+  15,R,D,X
+   1,N
+#0:00.459(27)

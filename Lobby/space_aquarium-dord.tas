@@ -1,0 +1,14 @@
+console load FLCC/0-Lobbies/1-Lobby 1744 152
+   1
+
+#Start
+#lvl_hotel-01
+  36
+   4,Z
+   1,R,J
+  40
+
+#lvl_hotel-02
+   6,R
+   1,R,N
+#0:00.833(49)

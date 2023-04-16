@@ -6,6 +6,7 @@ console load FLCC/1-Lobby/TOBYAAA_gun
 
 #Start
 #lvl_intro
+AnalogMode Ignore
   99
 gun 1000 700
    1

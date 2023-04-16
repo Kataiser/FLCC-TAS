@@ -1,0 +1,14 @@
+console load FLCC/0-Lobbies/1-Lobby 728 -216
+   1
+
+#Start
+  36
+   4,Z
+   1,R,J
+   7,R
+   2,R,J
+   3,J
+  15,R,D,X
+  11,L,D
+   1,N
+#0:00.646(38)
