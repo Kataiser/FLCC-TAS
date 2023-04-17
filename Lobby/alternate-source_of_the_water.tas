@@ -1,22 +1,26 @@
 console load FLCC/0-Lobbies/1-Lobby 1048 -40
    1
+
 #Start
   36
-  12,L,J
-   6,L,Z
+   9,L,J
+   3,L
+   7,L,Z
    1,L,J
-   7,L
+   6,L
    1,L,J
    8,L,D,X
   40
 
 #lvl_hotel-10
-   5,L,D,X
+   6,L
    1,L,J
-   7,L
+   5,L
+   2,L,K
   13,L,J
-  11,L,Z
-   7,L,J
-   8,L
-   1,L,N
-#0:02.023(119)
+   8,L,Z
+   5,L,J
+   5,L
+   9,L,D,X
+   1,L,J,N
+#0:02.006(118)

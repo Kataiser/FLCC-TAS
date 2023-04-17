@@ -3,19 +3,16 @@ console load FLCC/0-Lobbies/1-Lobby 2072 88
 
 #Start
   36
+  12,L,J
+   8,L,Z
    1,L,J
-  10,L,U,X
-   1,L,J,G
-   1,R
    6,L
-   6,L,Z
+   1
    1,L,J
-   7,L
-   1,L,J
-  14,L,D,X
+  14,L,D,C
    1,L,J
   14,L,U,X
    2,L,J,G
-   7,L
-   1,N
-#0:01.037(61)
+   5,L
+   1,L,N
+#0:00.969(57)

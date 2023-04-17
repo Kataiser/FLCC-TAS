@@ -9,8 +9,7 @@ console load FLCC/0-Lobbies/1-Lobby 448 -80
   16,U,X
   12,L,J
   11,L
-   4,Z
+  10,L,Z
    1,L,J
-   6,L
-   1,N
+   1,L,N
 #0:01.071(63)

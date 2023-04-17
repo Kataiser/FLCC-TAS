@@ -3,10 +3,10 @@ console load FLCC/0-Lobbies/1-Lobby 2024 128
 
 #Start
   36
-   6,R,J
-   9,U,X
-   5,L,J
-  12,L,K,G
-   5,L
+   5,R,J
+  14,R,U,C
+  12,K
+   1,L,J,G
+   4,L
    1,N
-#0:00.595(35)
+#0:00.578(34)

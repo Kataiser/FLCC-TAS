@@ -1,10 +1,7 @@
-console load FLCC/0-Lobbies/1-Lobby 1976 128
+console load FLCC/0-Lobbies/1-Lobby 2024 128
    1
 
 #Start
   36
-   4,Z
-   1,R,J
-   7,R
-   1,R,N
-#0:00.170(10)
+   1,N
+#0:00.017(1)
