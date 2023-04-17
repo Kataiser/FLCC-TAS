@@ -5,11 +5,10 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   36
 
 #lvl_a00
-  21,J
-  18,U,X
-   8
-  18,U,X
-   8
+  17,J
+  24,U,X
+  19,U,C
+   5,L
   10,R,X
   20,L,J
    5,L
@@ -19,8 +18,7 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
   15,R,J
    8,R
    2,R,J
-  14,R
-   6,R
+  20,R
    4,L,D,J
    3,R,J
    1,R
@@ -320,19 +318,22 @@ EndRepeat
    6,R
   12,R,J,G
   12,R,K,G
-   1,R,J,G
-   3,R
-   4
+   1,J,G
+   2,R
+   1
+   1,R
+   2
+   1,L
   17,D,X
    4,L
    6,L,J
-   6,L
-  49,L,J
-  14,L,X
-   3,L,J
-   1,L,K,G
-  30,L,J,G
-  27,L,U,X
- 122,L,D
+   5,L
+  50,L,J
+  14,L,Z
+   2,L,J
+   3,L,K,G
+  18,L,J,G
+  14,L,U,X
+ 135,L,D
 
-ChapterTime: 0:49.317(2901)
+ChapterTime: 0:48.994(2882)
