@@ -9,7 +9,6 @@ console load FLCC/1-Lobby/PHANT_Alternate
    1,R,J
   22,R
    8,L,J
-   0,R,J
    1,L,J,G
    1,L,K,G
    8,L,G
@@ -295,6 +294,6 @@ console load FLCC/1-Lobby/PHANT_Alternate
    1,R,J
    1,R,K
    8,R,J
- 134
-   1,O
+ 135
+
 ChapterTime: 0:58.667(3451)
