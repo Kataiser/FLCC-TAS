@@ -1,13 +1,12 @@
 #By Phrog
-RecordCount: 847
+RecordCount: 1082
 
 console load FLCC/1-Lobby/TODD_Chillout_Ridge
    1
 
 #Start
-  69
-
 #lvl_1
+  69
    5,R
    1,R,J
   14,R
@@ -46,27 +45,32 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
    1,R,J
    9,R
   14,R,Z
-  30,R,J
-  21,R,G
+  28,R,J
+   2,J
+  14,G
    1
    1,J
-  24,R,J
-  24,R,G
-   1,L,K
-  21,L,J
-   4,L
-  26,L,G
+   1,R,K,G
+  11,J
+  27,R,G
+   7,J,G
+   1,L,J
+  12,L,K
+  43,L,G
    3,L,J,G
    2,R,J
    4,L,J
    3,L,K,G
    7,L
-   1,L,J
-   6,L
+   2,L,K
+   5,L
    2
-  27,L,J
-  30,L,G
+  28,L,J
+  20,L,G
+   4
+   2,J,G
    1,R,J
+   1,J
   22,R,K
   14,R,Z
    4,R,J
@@ -106,7 +110,8 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
 #endrepeat
 #####
 
-  27,L,G
+  19,L,G
+   8
   14,U,X
  200,R,U,J,G
   10,R,G
@@ -121,16 +126,16 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
   40
 
 #lvl_4
-  71
-  21,L,J
+  68
+   5
+  19,L,J
   11,L,D,X
   16,R,J
-  12
-   8,D
+  20,D
   14,R,X
   18,R,J
-  14,R,D,X
-  14,R,J
+  11,R,D,X
+  16,R,J
   15,R,K,G
   16,R,D
   16,R,U
@@ -160,18 +165,16 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
   14,R
    1,R,J
   14,R
-   1,R,J
-   5,R
-  15,U,X
-  15,R,J
+   5,R,J
+  14,U,X
+  16,R,J
   15,R
   11,R,J
   13,R,Z
    8,R,J
   12,R
   14,U,Z
-  15,L,U,X
-   3,L
+  18,L,U,X
   13,L,Z
   20,L,J
   16,U
@@ -184,17 +187,19 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
    4,L
    6,L,D
    5,D
-  10,R,D,X
-  13,R,J
-  10,R,D,X
-  13,R,J
-  11,R,Z
-  10,R,J
-   7,R
+   8,R,D,X
+  15,R,J
+   8,R,D,X
+  15,R,J
+  14,R,Z
+   8,R,J
+   1,R
+   1,R,K
+   4,R
   40
 
 #lvl_6
-  13,R,J
+  12,R,J
   10,R,D,X
    9,R,J
    8,R,K
@@ -212,19 +217,21 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
    7,R,K
    7,R,J
   16,R,K
- 162,R,U,G
+  13,G
+ 149,R,U,G
   29,R
   15,U,X
-  50,R,G
-  27,R,D,G
-   9
+  76,R,D,G
+   1,R
+   8,D
   11,D,X
   11,R,D,C
   13,R,X
   10,R,U,C
   11,U,X
   13,U
- 125,R,U,G
+  13,G
+ 112,R,U,G
    6,R,D,G
    5,R,U,G
   14,R
@@ -233,7 +240,8 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
   14,U
   14,U,C
   15,U,X
- 115,R,G
+  13,G
+ 102,R,G
   10,R,D,G
    1,L
   17,R,D
@@ -246,4 +254,4 @@ console load FLCC/1-Lobby/TODD_Chillout_Ridge
   13,U,X
  135
 
-ChapterTime: 0:54.417(3201)
+ChapterTime: 0:54.230(3190)
