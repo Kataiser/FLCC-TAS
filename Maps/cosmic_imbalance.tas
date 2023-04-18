@@ -2,9 +2,8 @@ console load FLCC/1-Lobby/SAMURAN_CosmicImbalance
    1
 
 #Start
- 190
-
 #lvl_a-1
+ 190
    4,Z
    1,R,J
    4,R
@@ -264,4 +263,5 @@ console load FLCC/1-Lobby/SAMURAN_CosmicImbalance
   10,L
   23,U,X
  121,L,D
+
 ChapterTime: 0:41.582(2446)

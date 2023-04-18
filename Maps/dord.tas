@@ -1,14 +1,12 @@
 # By Phrog
-
 RecordCount: 868
 
 console load FLCC/1-Lobby/EVANKRUSHER_Dord
    1
 
 #Start 
- 120
-
 #lvl_1
+ 120
   11,R,D,X
    6,R,J
   15,R,D,X

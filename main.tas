@@ -1,0 +1,268 @@
+#restart game to
+#avoid desync
+
+read start
+
+read Lobby\start-veridian_sanctuary Start
+read EnterLevel
+read Maps\veridian_sanctuary Start
+  33,O
+
+read Lobby\veridian_sanctuary-switch_case Start
+read EnterLevel
+read Maps\switch_case Start
+  33,O
+
+read Lobby\switch_case-extro Start
+read EnterLevel
+read Maps\extro Start
+  33,O
+
+read Lobby\extro-nightcore Start
+read Maps\nightcore Start
+read EnterLevel
+  33,O
+
+read Lobby\nightcore-meteor_shower Start
+read EnterLevel
+read Maps\meteor_shower Start
+  33,O
+
+read Lobby\meteor_shower-block_abuse Start
+read EnterLevel
+read Maps\block_abuse Start
+  33,O
+
+read Lobby\block_abuse-bumper_woods Start
+read EnterLevel
+read Maps\bumper_woods Start
+  33,O
+
+read Lobby\bumper_woods-look_here Start
+read EnterLevel
+read Maps\look_here Start
+  33,O
+
+read Lobby\look_here-firepower Start
+read EnterLevel
+read Maps\firepower Start
+  33,O
+
+EnforceLegal
+
+read Lobby\firepower-sync Start
+read EnterLevel
+read Maps\sync Start
+  33,O
+
+read Lobby\sync-forest_of_fall Start
+read EnterLevel
+read Maps\forest_of_fall Start
+  33,O
+
+read Lobby\forest_of_fall-tobyaaas_keyside Start
+read EnterLevel
+read Maps\tobyaaas_keyside Start
+read rtm
+
+read Lobby\tobyaaas_keyside-space_aquarium Start
+read EnterLevel
+read Maps\space_aquarium Start
+  33,O
+
+read Lobby\space_aquarium-dord Start
+read EnterLevel
+read Maps\dord Start
+  33,O
+
+read Lobby\dord-yin_jian Start
+read EnterLevel
+read Maps\YinJian Start
+  33,O
+
+read Lobby\yin_jian-double_team Start
+read EnterLevel
+read Maps\double_team Start
+  33,O
+
+read Lobby\double_team-spike_party Start
+read EnterLevel
+read Maps\spike_party Start
+  33,O
+
+read Lobby\spike_party-getsuyuubyou Start
+read EnterLevel
+read Maps\getsuyuubyou Start
+  33,O
+
+read Lobby\getsuyuubyou-star_dumb Start
+read EnterLevel
+read Maps\star_dumb Start
+  33,O
+
+read Lobby\star_dumb-kunogis_keyside Start
+read EnterLevel
+read Maps\kunogis_keyside Start
+read rtm
+
+read Lobby\kunogis_keyside-difficulty_spike Start
+read EnterLevel
+read Maps\difficulty_spike Start
+  33,O
+
+read Lobby\difficulty_spike-generic_platformer Start
+read EnterLevel
+read Maps\generic_platformer Start
+  33,O
+
+read Lobby\generic_platformer-stuck_in_a_nightmare Start
+read EnterLevel
+read Maps\stuck_in_a_nightmare Start
+  33,O
+
+read Lobby\stuck_in_a_nightmare-geometrical_mayhem Start
+read EnterLevel
+read Maps\geometrical_mayhem Start
+  33,O
+
+read Lobby\geometrical_mayhem-technical_difficulties Start
+read EnterLevel
+read Maps\technical_difficulties Start
+  33,O
+
+read Lobby\technical_difficulties-temple_of_the_springs Start
+read EnterLevel
+read Maps\temple_of_the_springs Start
+  33,O
+
+read Lobby\temple_of_the_springs-macaroniboi_keyside Start
+read EnterLevel
+read Maps\macaroniboi_keyside Start
+read rtm
+
+read Lobby\macaroniboi_keyside-chillout_ridge Start
+read EnterLevel
+read Maps\chillout_ridge Start
+  33,O
+
+read Lobby\chillout_ridge-cold_bod_fort Start
+read EnterLevel
+read Maps\cold_bod_fort Start
+  33,O
+
+read Lobby\cold_bod_fort-wintry_night Start
+read EnterLevel
+read Maps\wintry_night Start
+  33,O
+
+read Lobby\wintry_night-translocation Start
+read EnterLevel
+read Maps\translocation Start
+  33,O
+
+read Lobby\translocation-midnight_canyon Start
+read EnterLevel
+read Maps\midnight_canyon Start
+  33,O
+
+read Lobby\midnight_canyon-acropolis Start
+read EnterLevel
+read Maps\acropolis Start
+  33,O
+
+read Lobby\acropolis-spectroscopic_synapse Start
+read EnterLevel
+read Maps\spectroscopic_synapse Start
+  33,O
+
+read Lobby\spectroscopic_synapse-elevator Start
+read EnterLevel
+read Maps\elevator Start
+  33,O
+
+read Lobby\elevator-silent_realm Start
+read EnterLevel
+read Maps\silent_realm Start
+  33,O
+
+read Lobby\silent_realm-violet_depths Start
+read EnterLevel
+read Maps\violet_depths Start
+  33,O
+
+read Lobby\violet_depths-yoshachobis_keyside Start
+read EnterLevel
+read Maps\yoshachobis_keyside Start
+read rtm
+
+read Lobby\yoshachobis_keyside-six_box_kaizo_rooms Start
+read EnterLevel
+read Maps\six_box_kaizo_rooms Start
+  33,O
+
+read Lobby\six_box_kaizo_rooms-alternate Start
+read EnterLevel
+read Maps\alternate Start
+  33,O
+
+read Lobby\alternate-source_of_the_water Start
+read EnterLevel
+read Maps\source_of_the_water Start
+  33,O
+
+read Lobby\source_of_the_water-sunrise_temple Start
+read EnterLevel
+read Maps\sunrise_temple Start
+  33,O
+
+read Lobby\sunrise_temple-magmatic_tunnel Start
+read EnterLevel
+read Maps\magmatic_tunnel Start
+  33,O
+
+read Lobby\magmatic_tunnel-the_overgrowth Start
+read EnterLevel
+read Maps\the_overgrowth Start
+  33,O
+
+read Lobby\the_overgrowth-cosmic_imbalance Start
+read EnterLevel
+read Maps\cosmic_imbalance Start
+  33,O
+
+read Lobby\cosmic_imbalance-dustbowl Start
+read EnterLevel
+read Maps\dustbowl Start
+  33,O
+
+read Lobby\dustbowl-corrupt_domain Start
+read EnterLevel
+read Maps\corrupt_domain Start
+  33,O
+
+read Lobby\corrupt_domain-madeline_is_you Start
+read EnterLevel
+read Maps\madeline_is_you Start
+  33,O
+
+read Lobby\madeline_is_you-ndsm Start
+read EnterLevel
+read Maps\ndsm Start
+  33,O
+
+  36
+read rtm
+   3
+   1,X
+  20
+   1,N
+  30
+   1,R
+ 120
+   1,X
+  30
+   1,J
+  30
+   1,J
+  46
+read journal Start

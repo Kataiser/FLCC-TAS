@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 4870
 
 console load FLCC/1-Lobby/TOBYAAA_forest
    1
 
 #Start
-  76
-
 #lvl_intro
+  76
    6,L,D,X
    1,R,J
    6,R

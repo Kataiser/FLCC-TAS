@@ -1,18 +1,18 @@
-console load FLCC/0-Lobbies/1-Lobby 1040 -168
+console load FLCC/0-Lobbies/1-Lobby 1088 -168
    1
 
 #Start
   36
-   2,R,J
-   5,R,Z
-   3,R,J
-   6,R
-   1,R,K
-   9
-  22,R,D
-   5,L,D
+   4,Z
+   1,R,J
+   5,R
+   1,K
+  10
+  23,D,X
+   4,L,D
+   1,L
    4,Z
    1,R,J
   15,R
    1,N
-#0:01.156(68)
+#0:01.037(61)
