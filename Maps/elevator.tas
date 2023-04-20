@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 1126
 
 console load FLCC/1-Lobby/SPIRITDRAGON_Elevator
    1
 
 #Start
-  36
-
 #lvl_01
+  36
    4,Z
    2,R,J
    8,R
@@ -531,4 +527,5 @@ Endrepeat
   15,U,X
    3
  135
+
 ChapterTime: 2:10.084(7652)

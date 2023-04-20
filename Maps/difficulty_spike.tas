@@ -2,9 +2,8 @@ console load FLCC/1-Lobby/APPLE_DifficultySpike
    1
 
 #Start
-  36
-
 #lvl_a00
+  36
   17,J
   24,U,X
   19,U,C

@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 842
 
 console load FLCC/1-Lobby/TOBYAAA_puzzle
    1
 
 #Start
- 190
-
 #lvl_pit
+ 190
   13,D,J
    6,L,J
    2,K,G
