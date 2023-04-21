@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
-RecordCount: 858
+RecordCount: 868
 
 console load FLCC/1-Lobby/IAMDADBOD_0
    1
 
 #Start
-  75
-
 #lvl_a-01
+  75
    4,R,Z
    1,R,J
    8,R
@@ -199,13 +195,13 @@ console load FLCC/1-Lobby/IAMDADBOD_0
   40
 
 #lvl_a-04
-   6,R
+   5
   13,J
   14,K
    1,J
-  23
+  23,D
    1,J
-  24
+  24,D
    1,J
   34
   32,R
@@ -265,4 +261,4 @@ console load FLCC/1-Lobby/IAMDADBOD_0
    1,J
   60
 
-ChapterTime: 0:51.629(3037)
+ChapterTime: 0:51.612(3036)
