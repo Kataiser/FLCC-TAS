@@ -1,12 +1,11 @@
-RecordCount: 705
+RecordCount: 772
 
 console load FLCC/1-Lobby/KUNOGI_Getsuyuubyou
    1
 
 #Start
- 190
-
 #lvl_Kunogi-intro
+ 190
 repeat 3
    1,R,J
    1,R,K
@@ -37,32 +36,47 @@ endrepeat
    1,R,D,X
    1,J
    5,R
-  28,D
-  32,R,J
-   9,R,K,G
-  12,R
-   4
-  11,R,D
-  15,R,Z
-  16,R,D
-   6,J
+  27,D
+   1
+  31,R,J
+   1,J
+   1,K,G
+   1,R,K
+   2,R,J,G
+   1,J
    1,R,J
+   6,R
+   1,R,K
+   5,R
+   4
+   9,R,D
+   2,R
+  15,R,Z
+  15,R,D
+   7,J
   15,U,X
   11,L
-  32,R,D,J
-   6,L,D
-   8,R,J
-  19,R
-   3,R,J,G
-  14,R
-   8,D
-   7,R,D
-   1,R,J,G
-   8,R,K,G
+  32,R,J
+   6,L
+   7,R,J
    5,R
-  17,R,D,K
-   5,D
+   2,R,K
+  13,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+  13,D
+   3,R,D
+   4,R
+   1,R,J,G
+  10,R,K,G
+   6,R
+   1,R,K
+   1,R
+   2,R,K
   11,R,D
+   4,D
+  10,R,D
   13,R,Z
    2,R,J
    2,R,K,G
@@ -262,4 +276,4 @@ endrepeat
   27,R,U,X
  118,R,D
 
-ChapterTime: 0:42.024(2472)
+ChapterTime: 0:41.922(2466)
