@@ -1,12 +1,11 @@
-RecordCount: 879
+RecordCount: 913
 
 console load FLCC/1-Lobby/TOBYAAA_cassette
    1
 
 #Start
-  74
-
 #lvl_intro
+  74
   12,R,J
   14,U,X
   18,L,J
@@ -374,58 +373,56 @@ console load FLCC/1-Lobby/TOBYAAA_cassette
   15,U,X
    6,L,J,G
   11,L
-  21,J
-  21,U,X
-   7
+  18,J
+  26,U,X
   15,D,C
   15,D,X
   15,D,C
+   2,J
+  15,U,X
+  15
+  15,D,X
+  15,D,C
+  15,D,X
+  15,D,C
+   1,J
+   1
+  15,U,X
+  12
+  15,D,X
+  15,D,C
+  15,D,X
    2,J
   15,U,X
   10
   15,D,X
   15,D,C
   15,D,X
-   9
-   2,J
+  15,D,C
+   1,J
+   1
   15,U,X
-  10
+  12
   15,D,X
   15,D,C
   15,D,X
-   9
-   2,J
-  15,U,X
-  10
-  15,D,X
-  15,D,C
-  15,D,X
-   9
-   2,J
-  15,U,X
-  10
-  15,D,X
-  15,D,C
-  15,D,X
-   9
    2,J
   15,U,X
   10,L
   15,D,X
   15,D,C
   15,D,X
-   6
+   9
    2,J
   15,U,X
   10
   17,J
-  19,U,X
-  12,L,J,G
-   8,K,G
-  19,R,J
-   1,R
-   3,R,K
-   8,U,X
- 134
-   1,O
-ChapterTime: 1:03.869(3757)
+  15,U,X
+   4,R
+  15,R,J
+   3,K
+   9,R,J,G
+  12,R,K,G
+ 135
+
+ChapterTime: 1:03.631(3743)
