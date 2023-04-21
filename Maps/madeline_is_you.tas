@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
-RecordCount: 3406
+RecordCount: 3599
 
 console load FLCC/1-Lobby/WOOMII_madelineisyou
    1
 
 #Start
- 190
-
 #lvl_startroom
+ 190
   12,L,Z
    3,R,J
   10,R,U,X
@@ -532,6 +528,7 @@ EndRepeat
    1,L
    6,R
    4,X
-   5,R,J
- 137,R,D
+   7,R,J
+ 135,R,D
+
 ChapterTime: 1:37.240(5720)

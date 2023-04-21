@@ -1,13 +1,9 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 console load FLCC/1-Lobby/KUNOGI_SpikeParty
    1
 
 #Start
- 190
-
 #lvl_Kunogi-intro
+ 190
   20,L,U,X
    4,L
    2
@@ -227,4 +223,4 @@ EndStunPause
    3,R,D
  135
 
-ChapterTime: 0:40.511(2483)
+ChapterTime: 0:40.511(2383)

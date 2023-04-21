@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
-RecordCount: 699
+RecordCount: 701
 
 console load FLCC/1-Lobby/SPIRITDRAGON_FLCCmap2
    1
 
 #Start
- 190
-
 #lvl_01
+ 190
   15,R,Z
    3,R,J
    2,R

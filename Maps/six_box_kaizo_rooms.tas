@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 1109
 
 console, load, FLCC/1-Lobby/THEGUR90_Box Kaizo
    1
 
 #Start
-  88
-
 #lvl_A_01
+  88
    9,R,J
    3,R
    9,R,Z
@@ -248,4 +244,5 @@ console, load, FLCC/1-Lobby/THEGUR90_Box Kaizo
    2,R,J
    3,R,K,G
  150,R,U,X
+
 ChapterTime: 0:39.763(2339)

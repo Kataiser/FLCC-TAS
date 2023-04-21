@@ -2,9 +2,8 @@ console load FLCC/1-Lobby/CABOB_MagmaticTunnel
    1
 
 #Start
- 190
-
 #lvl_a-00
+ 190
   13,R,J
   12,K,G
   12,J,G
@@ -430,4 +429,3 @@ Repeat 45
 EndRepeat
 
 ChapterTime: 1:17.163(4539)
-

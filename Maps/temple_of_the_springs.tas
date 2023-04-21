@@ -1,13 +1,9 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 console load FLCC/1-Lobby/MACARONIBOI_TOTS
    1
 
 #Start
- 116
-
 #lvl_TOTS1
+ 116
   10,L,Z
    1,R,J
 # Spinner stun

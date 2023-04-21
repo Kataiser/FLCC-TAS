@@ -2,12 +2,10 @@ console load FLCC/1-Lobby/MACARONIBOI_UltraEasy
    1
 
 #Start
+#lvl_GM1
   91
-
 #Spinner cycle [GM4]
    1
-
-#lvl_GM1
    4,R,Z
    1,R,J
    7,R

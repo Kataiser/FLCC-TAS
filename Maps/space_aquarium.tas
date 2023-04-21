@@ -1,18 +1,12 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 2000
 
 console load FLCC/1-Lobby/MAXBOI_aaaline
    1
 
-
-AnalogMode, Precise
-
 #Start
- 190
-
 #lvl_a-00
+AnalogMode, Precise
+ 190
    4,R,U
 Repeat 5
    1,R,J
@@ -326,4 +320,5 @@ Endrepeat
   50,R
   15,L,X
   89
+
 ChapterTime: 1:20.325(4725)

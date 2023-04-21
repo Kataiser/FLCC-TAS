@@ -2,9 +2,8 @@ console load FLCC/1-Lobby/MACARONIBOI_Z_MacaroniKeyside
    1
 
 #Start
- 190
-
 #lvl_MacKS Intro
+ 190
    6,L,D,X
    1,R,J
    7,R
@@ -468,13 +467,10 @@ console load FLCC/1-Lobby/MACARONIBOI_Z_MacaroniKeyside
   23,R
   15,R,U,X
   35,R,D
-   1,S
+   1,S,N
    1,D,J
   69,O
-  15,U,X
- 136,D
-   1,S
-   1,U,J
-   1,O
+  16,U,X
+ 135,D
 
 ChapterTime: 1:10.346(4138)

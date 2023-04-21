@@ -1,14 +1,12 @@
 #By Phrog
-
 RecordCount: 736
 
 console load FLCC/1-Lobby/DRIVANKO_midnightcanyon
    1
 
 #Start
- 190
-
 #lvl_a1
+ 190
    1,J
   11,R,J
   11,R,X

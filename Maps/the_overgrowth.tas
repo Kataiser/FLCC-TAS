@@ -1,14 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 397
 
 console load FLCC/1-Lobby/HYPERLIFE_flusheline_hyperlife_overgrown
    1
 
 #Start
- 149
 #lvl_00-1
+ 149
    1,R,J
    1,R,K
    1,R,J

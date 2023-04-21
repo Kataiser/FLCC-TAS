@@ -1,13 +1,9 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 console load FLCC/1-Lobby/MACARONIBOI_SIAN
    1
 
 #Start
-  84
-
 #lvl_SIAN1
+  84
    4,R,Z
    4,R,J
    1,R

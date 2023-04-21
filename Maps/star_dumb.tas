@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
-RecordCount: 1890
+RecordCount: 1891
 
 console load FLCC/1-Lobby/KUNOGI_StarDumb
    1
 
 #Start
- 190
-
 #lvl_Kunogi-intro
+ 190
    1,L,J
   13,L,U,X
    8,R
@@ -217,7 +213,7 @@ console load FLCC/1-Lobby/KUNOGI_StarDumb
    2,L
   14,U,X
   27,L,U
-AnalogMode Percice
+AnalogMode Ignore
   37,F,354.327
   18,F,0.806
   32,F,356.15

@@ -1,17 +1,12 @@
 # by sashabell
-
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 1723
 
 console load FLCC/1-Lobby/TCOOKIEM_VeridianSanctuary
    1
 
 #Start
- 190
-
 #lvl_00
+ 190
    6,R,Z
    1,R,J
    7,R

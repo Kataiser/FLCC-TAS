@@ -1,13 +1,9 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 console load FLCC/1-Lobby/VITELLARY_MeteorShower
    1
 
 #Start
- 190
-
 #lvl_01
+ 190
    6,R,Z
    8,R,J
   12,R

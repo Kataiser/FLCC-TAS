@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
 RecordCount: 1635
 
 console load FLCC/1-Lobby/YOSHACHOBI7_flusheline1
    1
 
 #Start
- 190
-
 #lvl_intro
+ 190
    3,L
    2,L,J
   14,L,Z
@@ -540,5 +536,3 @@ endrepeat
  135
 
 ChapterTime: 1:11.672(4216)
-
-
