@@ -1,15 +1,11 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
-
-RecordCount: 851
+RecordCount: 992
 
 console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    1
 
 #Start
- 190
-
 #lvl_Generic1
+ 190
    3,R
   11,R,D,J
    5,R
@@ -30,8 +26,7 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
   10,R
    1,R,J
    1,R,K,G
-   1,R,J,G
-   4,R,J
+   5,R,J,G
    5,R
    1,R,J
    3,R
@@ -60,37 +55,36 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    5,R
    1,R,J
    6,R
-  19,R,D,J
-   2,L,K
-   5,L
-   1,L,J,G
+  11,R,D,J
+   3,R
+   2
+   1,K
+   1,R
+   1,R,K
+   1,K
+   2,J,G
+   3
+   2,L
    1,L,K,G
+   1,L,J,G
    9,L
-   4,L,J
-  17,L
-   1,L,J
-  14,L
-  16,L,J
-  10,K,G
-   1,R,K
+   2,L,J
+  15,L
+  15,L,J
    1,J
-   8,R,K
+  10,L,J
+   9,K,G
+   1,J
+   8,K,G
+   3,R,K
    2,R
-   1,R,K
    1,R,J,G
    1,R,K,G
    9,R
-   2,R,J
-   5,R
    1,R,J
-  10,R
-   1,R,D,J
-   2
-   1,R
-   1
-  10,R
-   3,R,J
-  16,R
+  14,R
+   9,R,J
+  20,R
    1,R,J
   14,R
    1,R,J
@@ -115,17 +109,19 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    1,R,K,G
    9,R
    6,R,J
-  18,R
-  21
-  13,R
-  11,R,J
-   2,R
+   5,R
+   1,R,K
+  12,R
+  20
+  14,R
+  12,R,J
    1,R,K,G
   10,R,J,G
    1,R,K,G
    1,R,J,G
 #possible 9f landing
-  10,R
+   8,R
+   2,R,K
    1,R,J
   11,R
   40
@@ -410,6 +406,6 @@ console load FLCC/1-Lobby/MACARONIBOI_GenericPlatformer
    4,R
   10,R,J
   17,R
- 135
+ 135,L,D
 
-ChapterTime: 0:48.093(2829)
+ChapterTime: 0:47.804(2812)
