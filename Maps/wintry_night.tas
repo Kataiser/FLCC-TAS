@@ -1,5 +1,3 @@
-# FLCCcollab
-# https://gamebanana.com/mods/414315
 # Draft by sashabell
 # and Mika
 
@@ -9,9 +7,8 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
    1
 
 #Start
- 190
-
 #lvl_agent007_0
+ 190
    1,R
    1,R,J
   14,L,Z
@@ -229,4 +226,5 @@ console load FLCC/1-Lobby/AGENT_Wintry_Night
    1,R,K
   13,R,U,X
  135,L,D
+
 ChapterTime: 0:24.208(1424)

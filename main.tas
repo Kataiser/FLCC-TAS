@@ -19,8 +19,8 @@ read Maps\extro Start
   33,O
 
 read Lobby\extro-nightcore Start
-read Maps\nightcore Start
 read EnterLevel
+read Maps\nightcore Start
   33,O
 
 read Lobby\nightcore-meteor_shower Start
@@ -77,7 +77,7 @@ read Maps\dord Start
 
 read Lobby\dord-yin_jian Start
 read EnterLevel
-read Maps\YinJian Start
+read Maps\yin_jian Start
   33,O
 
 read Lobby\yin_jian-double_team Start

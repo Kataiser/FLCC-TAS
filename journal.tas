@@ -1,0 +1,40 @@
+console load FLCC/0-Lobbies/1-Lobby
+   1
+
+#Start
+#lvl_entrance-01
+  76
+  10,L,D,X
+   5,R,J
+   5,R,D,X
+   5,R,J,G
+   1,R,K,G
+   3
+   2,R
+   1,R,K
+  10,R
+   3,R,J
+   3,R,K,G
+   3,R,J,G
+  11,R,D,X
+   1,S,N
+   1,D,J
+  34
+   8,R
+   1,R,D,J
+   6,R,U,X
+  40
+
+#lvl_hotel-00
+   3,L
+   8,J,G
+  15,R,D,X
+   4,R
+   1,R,N
+#0:02.873(169)
+  29
+   1,R
+Repeat 4
+ 180
+   1,R
+Endrepeat
